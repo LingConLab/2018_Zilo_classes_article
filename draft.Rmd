@@ -17,7 +17,7 @@ library(tidyverse)
 library(lingtypology)
 ```
 
-## Noun classes in Zilo Andi: experimental data
+## Noun classes in Zilo Andi: experimental data [^1]
 
 George Moroz, Samira Verhees
 
@@ -28,7 +28,7 @@ agricolamz@gmail.com, jh.verhees@gmail.com
 [^1]:This research was conducted as part of the project "The Andi morphosyntax in a typological perspective" supported by the Russian Foundation for Basic Research (RFBR), grant No. 18-012-00852a.
 
 
-**Abstract**
+### Abstract
 
 This paper evaluates the interspeaker variation in noun class assignment among speakers of the Zilo dialect of Andi (a Nakh-Daghestanian language spoken in the Republic of Daghestan). The nominal lexicon in Andi is divided in three to six classes, depending on the dialect. In dialects with more numerous classes, there are two to three classes for inanimate objects with no obvious semantic distinction between them, while the remaining three classes (male, female, non-human animate) are semantically transparent and predictably refer to either male, female or non-human animate referents respectively. We designed an experiment to test whether the assignment of inanimate noun classes is consistent across speakers in different layers of the lexicon, including native words, older loan words, and more recent borrowings. As we will show, speakers are fairly consistent in assigning certain noun classes, though some variation occurs in all layers of the lexicon; variation is considerably higher with respect to more recent loan words.
 
@@ -67,6 +67,8 @@ map.feature(coord$Language,
             longitude = coord$Lon,
             label = coord$label,
             label.hide = FALSE,
+            label.fsize = 12,
+            label.font = "Times New Roman",
             shape = TRUE,
             zoom.level = 11,
             tile = "Stamen.TonerBackground")
