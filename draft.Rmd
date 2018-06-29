@@ -7,17 +7,17 @@ output:
     df_print: kable
     fig_caption: yes
     reference_docx: reference.docx
-  html_document:
-    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE, message = FALSE, comment = "", warning = FALSE)
 library(tidyverse)
 library(lingtypology)
+library(extrafont)
+theme_set(theme_bw()+theme(text = element_text(family = "Brill", size = 14)))
 ```
 
-## Noun classes in Zilo Andi: experimental data [^1]
+## Variability in noun classes assignment in Zilo Andi: experimental data [^1]
 
 George Moroz, Samira Verhees
 
@@ -30,18 +30,13 @@ agricolamz@gmail.com, jh.verhees@gmail.com
 
 ### Abstract
 
-This paper evaluates the interspeaker variation in noun class assignment among speakers of the Zilo dialect of Andi (a Nakh-Daghestanian language spoken in the Republic of Daghestan). The nominal lexicon in Andi is divided in three to six classes, depending on the dialect. In dialects with more numerous classes, there are two to three classes for inanimate objects with no obvious semantic distinction between them, while the remaining three classes (male, female, non-human animate) are semantically transparent and predictably refer to either male, female or non-human animate referents respectively. We designed an experiment to test whether the assignment of inanimate noun classes is consistent across speakers in different layers of the lexicon, including native words, older loan words, and more recent borrowings from Russian. As we will show, speakers are fairly consistent in assigning certain noun classes, though some variation occurs in all layers of the lexicon; variation is considerably higher with respect to more recent loan words.
+This paper evaluates the inter speaker variation in noun class assignment among speakers of the Zilo dialect of Andi (a Nakh-Daghestanian language spoken in the Republic of Daghestan). The nominal lexicon in Andi is divided in three to six classes, depending on the dialect. In dialects with more numerous classes, there are two to three classes for inanimate objects with no obvious semantic distinction between them, while the remaining three classes (male, female, non-human animate) are semantically transparent and predictably refer to either male, female or non-human animate referents respectively. We designed an experiment to test whether the assignment of inanimate noun classes is consistent across speakers in different layers of the lexicon, including native words, older loan words, and more recent borrowings from Russian. As we will show, speakers are fairly consistent in assigning certain noun classes, though some variation occurs in all layers of the lexicon; variation is considerably higher with respect to more recent loan words and among younger speakers.
 
 ### 1. Introduction
 
-Andi is a minority language spoken in a mountainous area in northwestern Daghestan (one of the North Caucasian autonomous republics of the Russian Federation). The nominal lexicon in Andi is divided into three to six classes. Some of these classes are semantically transparent, while others are not; in addition to masculine and feminine, non-human animates and two to three kinds of inanimate objects can be distinguished. The difference between the various inanimate classes remains unclear. All nouns in Andi belong to a class. This includes the influx of recent borrowings from Russian connected to technological innovations. Surprisingly, newly introduced nouns for objects like computers and simcards are assigned *different* inanimate classes, which suggests some kind of semantic distinction between these classes. As this regularity seems far from straight-forward, we decided to conduct an experiment to measure interspeaker variation regarding noun class assignment. For this purpose, we compiled a list of 114 lexical items, which includes borrowings from different periods as well as basic lexicon, and verified their class affiliation with sixteen speakers of different ages and genders. We recorded variation in every part of the lexicon, though it was significantly higher for borrowed words. We also detected a stronger tendency to variation among **НЕ ЗНАЕМ**. In Section 2 of this paper we introduce the Andi language, its dialects and sociolinguistic background. Section 3 provides a brief introduction to the grammatical category of noun class and the class systems attested in various dialects of Andi, as well as those of neighbouring and closely related languages. In Section 4 we discuss the pure agreement percentages among the surveyed speakers and the results from Fleiss' Kappa test. Section 5 summarizes our findings.
+Andi is a minority language spoken in a mountainous area in northwestern Daghestan (one of the North Caucasian autonomous republics of the Russian Federation). The nominal lexicon in Andi is divided into three to six classes. Some of these classes are semantically transparent, while others are not; in addition to masculine and feminine, non-human animates and two to three kinds of inanimate objects can be distinguished. The difference between the various inanimate classes remains unclear. All nouns in Andi belong to a class. This includes the influx of recent borrowings from Russian connected to technological innovations. Surprisingly, newly introduced nouns for objects like computers and simcards are assigned *different* inanimate classes, which suggests some kind of semantic distinction between these classes. As this regularity seems far from straight-forward, we decided to conduct an experiment to measure inter speaker variation regarding noun class assignment. For this purpose, we compiled a list of 114 lexical items, which includes borrowings from different periods as well as basic lexicon, and verified their class affiliation with sixteen speakers of different ages and genders. We recorded variation in every part of the lexicon, though it was significantly higher for borrowed words. We also detected a stronger tendency to variation among younger speakers. In Section 2 of this paper we introduce the Andi language, its dialects and sociolinguistic background. Section 3 provides a brief introduction to the grammatical category of noun class and the class systems attested in various dialects of Andi, as well as those of neighbouring and closely related languages. In Section 4 we discuss the pure agreement percentages among the surveyed speakers and the results from Fleiss' Kappa test. Section 5 summarizes our findings.
 
-
-### 2. Andi (background)
-
-Andi is an unwritten language of Daghestan. Together with Akhvakh, Karata, Botlikh, Godoberi, Chamalal, Bagvalal and Tindi, it makes up the Andic branch of the Nakh-Daghestanian (or East Caucasian) language family. The Andic branch is usually subsumed under a macro-branch it shares with Avar *ССЫЛКА*, which is also an influential neighbour of the Andic languages. Andi is spoken in the Botlikh district of the Republic of Daghestan, which borders on the Chechen republic. From some of the Andi villages Chechnya can be reached by foot. All of the Andic languages are spoken in a rather compact area, wedged in between large clusters of Chechen and Avar speaking villages (see Figure 1). Each of the nine Andi speaking villages is considered to have a distinct dialect with some minor idiosyncrasies. These dialects can be divided in two major groups: **Upper**, which includes the Andi, Gagatli, Gunkha, Rikvani, Ashali, Chanko and Zilo dialects, and **Lower**, which includes only the Muni and Kwanhidatli dialects. The names of the groups refer to their geographical location. The Upper villages are situated higher in the mountains, while the Lower dialects are spoken at the foot of these mountains, along the Andi Koisu river bank. There is mutual intelligibility among dialects, although speakers of dialects from the Upper group have trouble understanding speakers of Lower dialects (in particular that of Muni) and vice versa. Hence, they prefer to communicate in Avar, while within dialect groups they speak their native language. In this paper, we consider material from the village Zilo (see Figure 1). Although Zilo is considered one of the Upper dialects, it shares some features with the Lower group (such as the *-e* habitual). As the map shows, Zilo is surrounded almost exclusively by Andi villages, with the exception of some Avar villages in the east. There are also Botlikh, Karata and Chechen villages in the neighbourhood.
-
-```{r}
+```{r, fig.width=6, fig.height=4.5, cashe = TRUE, fig.cap= "Figure 1. Andi on the map"}
 
 coord <- read_tsv("data/coordinates.tsv")
 
@@ -62,23 +57,23 @@ coord %>%
   mutate(label = if_else(is.na(label), "", label)) ->
   coord
 
-```
-
-```{r map, fig.width=6, fig.height=4.5, cashe = TRUE, fig.cap= "Figure 1. Andi on the map"}
-
 map.feature(languages = "Andi",
             color = "darkseagreen",
             width = 5,
-            zoom.level = 8,
+            zoom.level = 7,
             label = "Andi",
-            label.hide = F,
-            label.fsize = 12,
+            label.hide = FALSE,
+            label.fsize = 14,
             label.font = 'Brill',
-            minimap = T)
-
+            tile = "Esri.WorldGrayCanvas",
+            minimap = TRUE)
 ```
 
-```{r map, fig.width=6, fig.height=4.5, cashe = TRUE, fig.cap= "Figure 1. The Andi villages and their neighbours"}
+### 2. Andi (background)
+
+Andi is an unwritten language of Daghestan (see Figure 1). Together with Akhvakh, Karata, Botlikh, Godoberi, Chamalal, Bagvalal and Tindi, it makes up the Andic branch of the Nakh-Daghestanian (or East Caucasian) language family. The Andic branch is usually subsumed under a macro-branch it shares with Avar [@schulze13], which is also an influential neighbour of the Andic languages. Andi is spoken in the Botlikh district of the Republic of Daghestan, which borders on the Chechen republic. From some of the Andi villages Chechnya can be reached by foot. All of the Andic languages are spoken in a rather compact area, wedged in between large clusters of Chechen and Avar speaking villages (see Figure 2). Each of the nine Andi speaking villages is considered to have a distinct dialect with some minor idiosyncrasies. These dialects can be divided in two major groups: **Upper**, which includes the Andi, Gagatli, Gunkha, Rikvani, Ashali, Chanko and Zilo dialects, and **Lower**, which includes only the Muni and Kwanhidatli dialects [@tsertsvadze65]. The names of the groups refer to their geographical location. The Upper villages are situated higher in the mountains, while the Lower dialects are spoken at the foot of these mountains, along the Andi Koisu river bank. There is mutual intelligibility among dialects, although speakers of dialects from the Upper group have trouble understanding speakers of Lower dialects (in particular that of Muni) and vice versa. Hence, they prefer to communicate in Avar, while within dialect groups they speak their native language. In this paper, we consider material from the village Zilo (see Figure 2). Although Zilo is considered one of the Upper dialects, it shares some features with the Lower group (such as the *-e* habitual). As the map shows, Zilo is surrounded almost exclusively by Andi villages, with the exception of some Avar villages in the east. There are also Botlikh, Karata and Chechen villages in the neighbourhood.
+
+```{r, fig.width=6, fig.height=4.5, cashe = TRUE, fig.cap= "Figure 2. The Andi villages (labeled) and their neighbours"}
 
 coord$Language <- factor(coord$Language, levels = c("Chechen", "Avar", "Andi", "Botlikh", "Godoberi", "Karata"))
 
@@ -86,40 +81,45 @@ map.feature(coord$Language,
             features = coord$Language,
             latitude = coord$Lat,
             longitude = coord$Lon,
-            width = 8,
-            color = c("white", "deepskyblue", "darkseagreen", "aquamarine4", "aquamarine2", "lightblue1"),
+            width = 6,
+            label.emphasize = list(24, "red"),
+            color = c("darkgrey", "deepskyblue", "darkseagreen", "aquamarine4", "aquamarine2", "lightblue1"),
             label = coord$label,
             label.hide = FALSE,
-            label.fsize = 12,
+            label.fsize = 14,
             label.font = 'Brill',
             zoom.level = 11,
             tile = c("Esri.WorldGrayCanvas"))
 ```
 
-Almost all speakers of Andi and other Andic languages speak Avar and Russian in addition to their mother tongue. Avar was the major local lingua franca in this area before the introduction of Russian and, to a certain extent, still is. Speakers of Andic (as well as speakers of Tsezic) languages use it to communicate with each other and with local Avars. The language is also taught in school as a subject called "native language" (*rodnoj jazyk* in Russian). For speakers of Andi, Avar is the language of literacy. Before the introduction of modern technology like computers and cellphones, they would write letters to each other in Avar. Currently, they use the extended Cyrillic script of Avar (featuring, among other things, special diacritics for ejective consonants) to write their own language. Russian was introduced as the language of administration and education in the first half of the 20th century and subsequently has strengthened its position throughout the republic, cf. [@dobrushina11]. Andi speakers use it to communicate with people from other regions of Daghestan where Avar is not spoken. It is also used for communication by speakers of Andi dialects that belong to different dialect groups.
-	As a result of this multilingualism, the Andi lexicon contains multiple layers of borrowings from different languages and different periods. Besides loans from Avar and Russian this includes religious terminology from Arabic, and cultural borrowings from Arabic, Persian and Kumyk (a local Turkic language), some of which were evidently borrowed through Avar. The names of all the technical innovations of the 20th and 21st centuries were taken from Russian with little to no phonetic adaptation. In Russian these terms were mostly borrowed and adapted from English. The lack of phonetic adaptation in more recent Russian loans is connected to the increasingly important role of the Russian language in Daghestan. Earlier loans were subjected to some phonetic change, cf. *kempeti* (*kanfeti*, 'sweets'), *tʃajnik'i* (*tʃajnik* 'kettle'), and *ʃːiɡolati* (*ʃːakalat* 'chocolate' [@salimov10: 43], as opposed to more recent words (see Section 4). Borrowed words often have some phonological, orthographic, morphological or syntactic features in the donor language which are incompatible with the system of the recipient language. In this paper, we explore how recent Russian borrowings are integrated in the Andi system of noun classes (see related studies [gagliardi14], [stolz09], on *ЗДЕСЬ НАДО УТОЧНИТЬ, О ЧЕМ ЭТИ СТАТЬИ, А ТО ПОХОЖЕ ЧТО ОНИ НАПИСАЛИ ИМЕННО ПРО КЛАССЫ В АНДИЙСКОМ. КАК ОНИ RELATED К НАМ?*).
+Almost all speakers of Andi and other Andic languages speak Avar and Russian in addition to their mother tongue. Avar was the major local lingua franca in this area before the introduction of Russian and, to a certain extent, still is. Speakers of Andic (as well as speakers of Tsezic) languages use it to communicate with each other and with local Avars. The language is also taught in school during the course called "native language" (*rodnoy yazyk* in Russian). For speakers of Andi, Avar is the language of literacy. Before the introduction of modern technology like computers and cellphones, they would write letters to each other in Avar. Currently, they use the extended Cyrillic script of Avar (featuring, among other things, special diacritics for ejective consonants) to write their own language. Russian was introduced as the language of administration and education in the first half of the 20th century and subsequently has strengthened its position throughout the republic, cf. [@dobrushina11]. Andi speakers use it to communicate with people from other regions of Daghestan where Avar is not spoken. It is also used for communication by speakers of Andi dialects that belong to different dialect groups.
+
+As a result of this multilingualism, the Andi lexicon contains multiple layers of borrowings from different languages and different periods. Besides loans from Avar and Russian this includes religious terminology from Arabic, and cultural borrowings from Arabic, Persian and Kumyk (a local Turkic language), some of which were evidently borrowed through Avar. The names of all the technical innovations of the 20th and 21st centuries were taken from Russian with little to no phonetic adaptation. In Russian these terms were mostly borrowed and adapted from English. The lack of phonetic adaptation in more recent Russian loans is connected to the increasingly important role of the Russian language in Daghestan. Earlier loans were subjected to some phonetic change, cf. *kempeti* (*kanfeti*, 'sweets'), *tʃajnik'i* (*tʃajnik* 'kettle'), and *ʃːiɡolati* (*ʃːakalat* 'chocolate' [@salimov10: 43], as opposed to more recent words (see Section 4). Borrowed words often have some phonological, orthographic, morphological or syntactic features in the donor language which are incompatible with the system of the recipient language. In this paper, we explore how recent Russian borrowings are integrated in the Andi system of noun classes. There is only one related study on similar experiment in other Nakh-Daghestanian language --- Tsezic  (see [@gagliardi14]), but there are a lot of similar experiments based on other languages (e. g. [@stolz09]).
 
 ### 3. Noun class as a grammatical category
 
 Noun class is one of the central grammatical categories of the Nakh-Daghestanian languages. It divides the nominal lexicon into varying numbers of classes. We prefer the term noun class to gender, because in Andi in particular, the division of classes is only partially semantically transparent. The masculine and feminine noun classes are assigned to nouns describing male and female (human) referents respectively, based on their biological gender. Everything else may be assigned one general non-human class, or be divided into several different classes, depending on the dialect. As we will show later, the various classes that may be assigned to objects do not show a clear semantic distinction.
-	A distinct class is assigned to each noun, with the exception of a small group of roots which adapt their class to the gender of the actual referent, for example: 
+
+A distinct class is assigned to each noun, with the exception of a small group of roots which adapt their class to the gender of the actual referent, for example: 
 	
-* **ʃːu-w ketʃ'eqan**
+* *ʃːu-w ketʃ'eqan*
 good-m singer
 'a good singer (male)'
 
-* **ʃːu-j ketʃ'eqan**
+* *ʃːu-j ketʃ'eqan*
 good-f singer
 'a good singer (female)'
 
-Noun class is a covert category. Only a few nominal roots contain a class marker, e.g. [brother sister] Agreement is expressed on verbs, pronouns, adjectives and some other types of attributes. Demonstratives form the only part of speech which always carries a class agreement slot. For all other parts of speech the presence of an agreement slot is lexically determined: some roots have it, while others do not. On verbs the slot is usually prefixal (and, rarely, infixal). Adjectives can have a prefixal, infixal or suffixal slot, and demonstratives and pronouns always feature a suffixal slot. Noun class as an agreement class is partly merged with number in Andi (see below).
+Noun class is a covert category. Only a few nominal roots contain a class marker, e.g. *CL-otsːi* 'siblings'. Agreement is expressed on verbs, pronouns, adjectives and some other types of attributes. Demonstratives form the only part of speech which always carries a class agreement slot. For all other parts of speech the presence of an agreement slot is lexically determined: some roots have it, while others do not. On verbs the slot is usually prefixal (and, rarely, infixal). Adjectives can have a prefixal, infixal or suffixal slot, and demonstratives and pronouns always feature a suffixal slot. Noun class as an agreement class is partly merged with number in Andi (see below).
 
 Table 1. Noun class systems in dialects of Andi
 ```{r}
 read_csv("data/table_1.csv", na = "")
 ```
 
-Table 1 illustrates that the noun class system can be structurally different in different dialects. We use the following notation: m --- masculine, f --- feminine, an --- animate beings (non-human), ¬an --- inanimate objects (which may include some insects) and ¬h --- general non-human (including both animate and inanimate). In the Muni dialect (as well as in Kwankhidatli) as described by [@tsertsvadze65], there are only three classes (masculine, feminine and "neuter", or "everything else"). The other dialects differentiate non-human animates (i.e. animals) and two to three classes of inanimate objects. Rikvani has the most elaborate system with a total of three inanimate classes, although the third inanimate class contains only a handful of nouns. The Andi system differs radically from that of the neighbouring languages, especially those which are more closely related; they feature smaller systems with a general non-human class, similar to the Lower Andi dialects. Andi seems to be more similar to Chechen in this respect, but the resemblance is limited to the number of classes; the markers themselves and the structure of the system are different. Because class is partly fused with number, the amount of noun classes (or the amount of classes distinguished by a specific prefix) may differ in plural. Languages like Botlikh, for example, distinguish three classes in singular (masculine, feminine and neuter), and only two in plural (human vs. non-human). In Andi it is rather the other way around: some classes have the same marker in singular (e.g. animate and inanimate 1), but we consider them distinct classes because they are differentiated in plural.
+[^2]: We use the following notation: m --- masculine, f --- feminine, an --- animate beings (non-human), ¬an --- inanimate objects (which may include some insects) and ¬h --- general non-human (including both animate and inanimate).
+
+Table 1 illustrates that the noun class system can be structurally different in different dialects. In the Muni dialect (as well as in Kwankhidatli) as described by [@tsertsvadze65], there are only three classes (masculine, feminine and "neuter", or "everything else"). The other dialects differentiate non-human animates (i.e. animals) and two to three classes of inanimate objects. Rikvani has the most elaborate system with a total of three inanimate classes, although the third inanimate class contains only a handful of nouns. The Andi system differs radically from that of the neighbouring languages, especially those which are more closely related; they feature smaller systems with a general non-human class, similar to the Lower Andi dialects. Andi seems to be more similar to Chechen in this respect, but the resemblance is limited to the number of classes; the markers themselves and the structure of the system are different. Because class is partly fused with number, the amount of noun classes (or the amount of classes distinguished by a specific prefix) may differ in plural. Languages like Botlikh, for example, distinguish three classes in singular (masculine, feminine and neuter), and only two in plural (human vs. non-human). In Andi it is rather the other way around: some classes have the same marker in singular (e.g. animate and inanimate 1), but we consider them distinct classes because they are differentiated in plural.
 
 Table 2. Class inventory of languages spoken in neighbouring villages
 ```{r}
@@ -130,11 +130,11 @@ As mentioned earlier, the attribution of the masculine and feminine noun classes
 
 #### 3.1 Inanimate classes
 
-In the descriptive grammar by [@suleymanov57] (Rikvani dialect), a dictionary of 1236 nouns is provided, grouped by semantic category and noun class. The vast majority of these nouns belongs to the inanimate 1 class (678). There are 53 masculine nouns, 38 feminine, and 46 ambiguous human nouns. A total of 29 nouns is classified as ambiguous between masculine, feminine and animate (e.g. *motʃi* 'child'). The animate class consists of 109 nouns. There are 276 nouns which belong to inanimate 2, and the third inanimate class contains just seven insects. As the first inanimate class comprises half of the noun vocabulary, it covers a large number of rather general semantic categories, including body parts, plants, household objects and abstract concepts [@suleymanov57:138-151]. Unfortunately, the second inanimate class seems to cover largely the same categories, just different parts of it. For example, *rel'a* 'hand' belongs to the first inanimate class, while *гъажу* 'arm' belongs to the second. Few of the categories are exclusive as a whole to either inanimate 1 or inanimate 2, with the exception of a few highly specialized categories belonging to inanimate 2: religious objects and moral concepts (e.g. prayer, tax, amulet); paper objects and documents (book, letter, newspaper, various legal documents); concepts of time (hour, day, night). Curiously, female clothing and jewelry is mostly inanimate 2, while male clothing predominantly belongs to inanimate 1.The situation is a bit different in Gagatli, as described in [@salimov10: 48-]. In Gagatli, the feminine class contains a handful of abstract concepts that belong to inanimate 2 in Rikvani (e.g. evening). Otherwise, the description of the masculine and animate classes, as well as that of the inanimate 1 and 2 classes is highly similar. The insects distinguished by the third inanimate class in Rikvani are grouped with inanimate 2 in Gagatli. For both dialects liquids and water reservoirs tend to be assigned the inanimate 2 class. For Zilo this largely hold, although *inχi* 'large river' belongs to inanimate 1.
+In the descriptive grammar by [@suleymanov57] (Rikvani dialect), a dictionary of 1236 nouns is provided, grouped by semantic category and noun class. The vast majority of these nouns belongs to the inanimate 1 class (678). There are 53 masculine nouns, 38 feminine, and 46 ambiguous human nouns. A total of 29 nouns is classified as ambiguous between masculine, feminine and animate (e.g. *motʃi* 'child'). The animate class consists of 109 nouns. There are 276 nouns which belong to inanimate 2, and the third inanimate class contains just seven insects. As the first inanimate class comprises half of the noun vocabulary, it covers a large number of rather general semantic categories, including body parts, plants, household objects and abstract concepts [@suleymanov57: 138--151]. Unfortunately, the second inanimate class seems to cover largely the same categories, just different parts of it. For example, *relˤa* 'hand' belongs to the first inanimate class, while *ʁaʒu* 'arm' belongs to the second. Few of the categories are exclusive as a whole to either inanimate 1 or inanimate 2, with the exception of a few highly specialized categories belonging to inanimate 2: religious objects and moral concepts (e.g. prayer, tax, amulet); paper objects and documents (book, letter, newspaper, various legal documents); concepts of time (hour, day, night). Curiously, female clothing and jewelry is mostly inanimate 2, while male clothing predominantly belongs to inanimate 1.The situation is a bit different in Gagatli, as described in [@salimov10: 48]. In Gagatli, the feminine class contains a handful of abstract concepts that belong to inanimate 2 in Rikvani (e.g. evening). Otherwise, the description of the masculine and animate classes, as well as that of the inanimate 1 and 2 classes is highly similar. The insects distinguished by the third inanimate class in Rikvani are grouped with inanimate 2 in Gagatli. For both dialects liquids and water reservoirs tend to be assigned the inanimate 2 class. For Zilo this largely hold, although *inχi* 'large river' belongs to inanimate 1.
 
 #### 3.2 Origins of inanimate 2
 
-A few remarks on diachrony are in order here. As Table 2 illustrates, the prefixal marker of inanimate plurals is similar to the inanimate 2 marker in Andi. Three-class systems are considered reduced systems originating in a four or five class system that is more similar to what we find in contemporary Andi *ССЫЛКА НА КАКУЮ-НИБУДЬ РАБОТУ АЛЕКСЕЕВА*. As argued in [@daniel18] there is some evidence that across the family, the second inanimate class (in cases where there is such a distinction) and similar-looking plural markers, ultimately originate in a distinct class containing mass nouns, such as liquids, pluralia and singularia tantum and abstract nouns that are "number neutral". If that is the case, the inanimate 2 has extended its terrain considerably in contemporary Andi. It contains some mass nouns and singularia tantum like *ilajma* 'parents' (literally a contraction of 'mother' (*ila*) and 'father' (*ima*), which agrees with inanimate 2 singular), but also many countable objects. In addition, mass nouns are not restricted to inanimate 2, for example *zar* 'ice' and *k'ːöj* 'smoke' belong to inanimate 1 at least in Rikvani. Thus, evidence from Andi does not necessarily refute the mass noun hypothesis, but it cannot support it either, as we have no knowledge of how Andi noun classes have evolved. Moreover because we have not yet succeeded in establishing semantic regularities for the synchronic level.
+A few remarks on diachrony are in order here. As Table 2 illustrates, the prefixal marker of inanimate plurals is similar to the inanimate 2 marker in Andi. Three-class systems are considered reduced systems originating in a four or five class system that is more similar to what we find in contemporary Andi [@alekseev97]. As argued in [@daniel18] there is some evidence that across the family, the second inanimate class (in cases where there is such a distinction) and similar-looking plural markers, ultimately originate in a distinct class containing mass nouns, such as liquids, pluralia and singularia tantum and abstract nouns that are "number neutral". If that is the case, the inanimate 2 has extended its terrain considerably in contemporary Andi. It contains some mass nouns and singularia tantum like *ilajma* 'parents' (literally a contraction of 'mother' (*ila*) and 'father' (*ima*), which agrees with inanimate 2 singular), but also many countable objects. In addition, mass nouns are not restricted to inanimate 2, for example *zar* 'ice' and *k'ːõj* 'smoke' belong to inanimate 1 at least in Rikvani. Thus, evidence from Andi does not necessarily refute the mass noun hypothesis, but it cannot support it either, as we have no knowledge of how Andi noun classes have evolved. Moreover because we have not yet succeeded in establishing semantic regularities for the synchronic level.
 
 #### 3.3 Loan words
 
@@ -143,18 +143,20 @@ Based on the lists by Sulejmanov and Salimov, we can conclude that there is no d
 
 ### 4. Experimental data and analysis
 
-In order to evaluate how consistent speakers are in assigning a noun class to certain nouns, we created a list consisting of 25 native and 25 borrowed words for each of the inanimate classes (100 words in total) and some members of the inanimate 3 class from Rikvani (four in total). We included native words in order to detect a difference in variation across speakers between words that are part of the core lexicon and words that are relatively new and obviously come from a different language. When the list was compiled, we arranged the words in a quasi-arbitrary order; we tried to avoid offering the speakers large clusters of borrowings and too much repetition of words belonging to the same class, in order to avoid *priming(? ЭТО ТАК НАЗЫВАЕТСЯ? ЧТО-ТО Я НЕ УВЕРЕНА)*.The complete list of 114 lexical items is available online: https://goo.gl/YG8Co9. For each of the words, we asked speakers to translate the phrase "my X", because the possessive construction in Andi consists of a personal pronoun and a class suffix that agrees with the possessee, for example: [my something]. We conducted the experiment with sixteen different speakers, evenly divided among two age groups: younger (13-32) vs. older (34-60). For each age group, we interviewed four female and four male speakers. All of the data were collected during fieldwork in Zilo in August of 2017.
+In order to evaluate how consistent speakers are in assigning a noun class to certain nouns, we created a list consisting of 25 native and 25 borrowed words for each of the inanimate classes (100 words in total) and some members of the inanimate 3 class from Rikvani (four in total). We included native words in order to detect a difference in variation across speakers between words that are part of the core lexicon and words that are relatively new and obviously come from a different language. When the list was compiled, we arranged the words in a quasi-arbitrary order; we tried to avoid offering the speakers large clusters of borrowings and too much repetition of words belonging to the same class, in order to avoid priming. The complete list of 114 lexical items  as well as all R code[^3] for this article are available online: https://github.com/LingConLab/2018_Zilo_classes_article. For each of the words, we asked speakers to translate the phrase "my X", because the possessive construction in Andi consists of a personal pronoun and a class suffix that agrees with the possessee, for example: *di-w ima* (I-m father) 'my father'. We conducted the experiment with sixteen different speakers, evenly divided among two age groups: younger (13-32) vs. older (34-60). For each age group, we interviewed four female and four male speakers. All of the data were collected during fieldwork in Zilo in August of 2017.
 
-*ОПИСАНИЕ СТАТИСТИЧЕСКОГО АНАЛИЗА*
+[^3]: All statistical tests and visualizations were done in R [@RCoreTeam], using the following packages: *ape* [@paradis04], *ggplot2* [@wickham09], *irr* [@gamer12] and *lingtypology* [@moroz17].
 
-*В СНОСКУ*
-All statistical tests and visualizations were done in R [@RCoreTeam], using the following packages: *ape* [@paradis04], *ggplot2* [@wickham09], *irr* [@gamer12] and *lingtypology* [@moroz17].
+In order to measure how the answers of the speakers are uniform, two measures were used: the percentage of absolute percentage  and the Fleiss' Kappa. The characteristics of the obtained values of the Fleis' kappa were taken from the work [@hallgren12]. The results are shown in Table 3:
+
 
 ```{r}
 df <- read_csv("data/zilo_class_experiment.csv")
+df$group_age <- ifelse(df$age_2017 > 33, "older", "younger")
+
 df %>% 
   mutate(class = if_else(class == "b", 1, 0)) %>% 
-  select(-sex, -age_2017) %>% 
+  select(-sex, -age_2017, -group_age) %>% 
   spread(s_id, class) %>% 
   select(`1`:`16`) %>% 
   summarise(agree = irr::agree(.)$value,
@@ -166,7 +168,7 @@ df %>%
 df %>% 
   filter(stimulus_source == "loan") %>% 
   mutate(class = if_else(class == "b", 1, 0)) %>% 
-  select(-sex, -age_2017) %>% 
+  select(-sex, -age_2017, -group_age) %>% 
   spread(s_id, class) %>% 
   select(`1`:`16`) %>% 
   summarise(agree = irr::agree(.)$value,
@@ -178,7 +180,7 @@ df %>%
 df %>% 
   filter(stimulus_source == "native") %>% 
   mutate(class = if_else(class == "b", 1, 0)) %>% 
-  select(-sex, -age_2017) %>% 
+  select(-sex, -age_2017, -group_age) %>% 
   spread(s_id, class) %>% 
   select(`1`:`16`) %>% 
   summarise(agree = irr::agree(.)$value,
@@ -191,16 +193,19 @@ all_agreement <- rbind(all, native, loan)
 ```
 
 
-Table 3. Pure agreement percentages among speakers
+Table 3. Pure agreement percentages and Fleiss' kappa for all speakers
 ```{r}
 read_csv("data/table_3.csv", na = "")
 ```
 
+As we see from Table 3, the results of the experiment showed a fairly high inter speaker agreement in class assignment task. The agreement of the speakers in group of borrowed words is less (substantial agreement vs. almost perfect agreement). Although the agreement in the native words is quite high, but it is not ideal. This shows that variability in class assignment is observed in all parts of vocabulary, but in borrowings it is much higher.
 
-```{r, dpi = 500, cashe = TRUE, fig.cap= "Figure 2. Dendrogram showing the clusterization of speakers."}
+Also we decided to make a hierarchical clustering on our data, the results of which are presented in Figure 3:
+
+```{r, dpi = 500, cashe = TRUE, fig.cap= "Figure 3. Dendrogram showing the clusterization of speakers."}
 df %>% 
   mutate(class = if_else(class == "b", 1, 0)) %>% 
-  select(-sex, -age_2017) %>% 
+  select(-sex, -age_2017, -group_age) %>% 
   spread(s_id, class) %>% 
   select(`1`:`16`) %>% 
   t() ->
@@ -226,10 +231,143 @@ plot(as.phylo(hc),
      type = "unrooted")
 ```
 
+On the dendrogram in the Figure 3 we could see 3 different clusters that is defirintiated by age group:
+
+* older group from 34 to 60;
+* younger group from 13 to 32;
+* one sexteen year old female speaker form a separate cluster.
+
+Since hierarchical clustering showes age group importance we decided recalculate all obtained measures for each age group: 
+
+```{r}
+df %>% 
+  filter(group_age == "older") %>% 
+  mutate(class = if_else(class == "b", 1, 0)) %>% 
+  select(-sex, -age_2017, -group_age) %>% 
+  spread(s_id, class) %>% 
+  select(-w_id, -stimulus, -translation_en, -translation_ru, -stimulus_source) %>% 
+  summarise(agree = irr::agree(.)$value,
+            fleiss = irr::kappam.fleiss(.)$value,
+            fleiss_z = irr::kappam.fleiss(.)$statistic,
+            type = "all, older") ->
+  all_older
+
+df %>% 
+  filter(stimulus_source == "loan",
+         group_age == "older") %>% 
+  mutate(class = if_else(class == "b", 1, 0)) %>% 
+  select(-sex, -age_2017, -group_age) %>% 
+  spread(s_id, class) %>% 
+  select(-w_id, -stimulus, -translation_en, -translation_ru, -stimulus_source) %>% 
+  summarise(agree = irr::agree(.)$value,
+            fleiss = irr::kappam.fleiss(.)$value,
+            fleiss_z = irr::kappam.fleiss(.)$statistic,
+            type = "loan, older") ->
+  loan_older
+
+df %>% 
+  filter(stimulus_source == "native",
+         group_age == "older") %>% 
+  mutate(class = if_else(class == "b", 1, 0)) %>% 
+  select(-sex, -age_2017, -group_age) %>% 
+  spread(s_id, class) %>% 
+  select(-w_id, -stimulus, -translation_en, -translation_ru, -stimulus_source) %>% 
+  summarise(agree = irr::agree(.)$value,
+            fleiss = irr::kappam.fleiss(.)$value,
+            fleiss_z = irr::kappam.fleiss(.)$statistic,
+            type = "native, older") ->
+  native_older
+
+df %>% 
+  filter(group_age == "younger") %>% 
+  mutate(class = if_else(class == "b", 1, 0)) %>% 
+  select(-sex, -age_2017, -group_age) %>% 
+  spread(s_id, class) %>% 
+  select(-w_id, -stimulus, -translation_en, -translation_ru, -stimulus_source) %>% 
+  summarise(agree = irr::agree(.)$value,
+            fleiss = irr::kappam.fleiss(.)$value,
+            fleiss_z = irr::kappam.fleiss(.)$statistic,
+            type = "all, younger") ->
+  all_younger
+
+df %>% 
+  filter(stimulus_source == "loan",
+         group_age == "younger") %>% 
+  mutate(class = if_else(class == "b", 1, 0)) %>% 
+  select(-sex, -age_2017, -group_age) %>% 
+  spread(s_id, class) %>% 
+  select(-w_id, -stimulus, -translation_en, -translation_ru, -stimulus_source) %>% 
+  summarise(agree = irr::agree(.)$value,
+            fleiss = irr::kappam.fleiss(.)$value,
+            fleiss_z = irr::kappam.fleiss(.)$statistic,
+            type = "loan, younger") ->
+  loan_younger
+
+df %>% 
+  filter(stimulus_source == "native",
+         group_age == "younger") %>% 
+  mutate(class = if_else(class == "b", 1, 0)) %>% 
+  select(-sex, -age_2017, -group_age) %>% 
+  spread(s_id, class) %>% 
+  select(-w_id, -stimulus, -translation_en, -translation_ru, -stimulus_source) %>% 
+  summarise(agree = irr::agree(.)$value,
+            fleiss = irr::kappam.fleiss(.)$value,
+            fleiss_z = irr::kappam.fleiss(.)$statistic,
+            type = "native, younger") ->
+  native_younger
+
+
+all_agreement <- rbind(all_older, all_younger, native_older, native_younger, loan_older, loan_younger)
+```
+
+
+Table 4. Pure agreement percentages and Fleiss' kappas for different age group
+```{r}
+read_csv("data/table_4.csv", na = "")
+```
+
+As we see from Table 4, in each group of words younger speakers has lesser values of pure agreement percentages and Fless' kappas. It is possible to obtaine this values in two different situations. First, it is possible that lexems where we found variability are the same among two age group, but the level of variability is higher.  It is also possible that variable lexemes are differnt in different groups. We decided to show this visually. First we calculated variability rate for each word in each group. Here are three examples:
+
+* the word *inɡur* 'window' were atributed as a first inanimated class by all speakers, so its variability rate will be $$\frac{inanimate_1}{inanimate_1+inanimate_2} = \frac{16}{8+8} = 1$$
+
+* the word *haq'u* 'room' were atributed as a first inanimated class by all speakers, so its variability rate will be 
+$$\frac{inanimate_1}{inanimate_1+inanimate_2} = \frac{0}{8+8} = 0$$
+
+* the word *haq'u* 'room' were atributed as a first inanimated class by all speakers, so its variability rate will be 
+$$\frac{inanimate_1}{inanimate_1+inanimate_2} = \frac{0}{8+8} = 0$$
+
+* the word *haq'u* 'butterfly' were atributed as a first inanimated class by older speakers 4 times, and by younger speakers 5 times, so its variability rate will be different in different groups: $$\frac{inanimate_1}{inanimate_1+inanimate_2} = \frac{4}{4+4} = 0.5$$
+$$\frac{inanimate_1}{inanimate_1+inanimate_2} = \frac{5}{5+3} = 0.625$$
+
+On the Figure 4 the variability rate of younger speakers is plotted against variability rate of older speakers.
+
+```{r, dpi = 500, cashe = TRUE, fig.cap= "Figure 4. Destribution of the most variable words by different age group.", fig.width=7}
+df %>%  
+  group_by(w_id, translation_en, stimulus_source, group_age) %>% 
+  count(class) %>% 
+  spread(class, n, fill = 0) %>% 
+  mutate(rate_b = b/(b+r),
+         repel = if_else(rate_b > 0 & rate_b < 1, TRUE, FALSE)) %>%
+  filter(repel == TRUE) %>%
+  select(-b, -r) %>%
+  spread(group_age, rate_b, fill = 0)  %>% 
+  ggplot(aes(younger, older))+
+  geom_abline(slope = 1, intercept = 0, linetype  = 2)+
+  geom_point()+
+  geom_point(data = data.frame(younger = 0:1, older = 0:1),
+             aes(younger, older))+
+  ggrepel::geom_text_repel(aes(label = translation_en, color = stimulus_source), show.legend = FALSE, seed = 42, family = "Times New Roman")+
+  scale_x_continuous(limits = c(0, 1))+
+  scale_y_continuous(limits = c(0, 1))+
+  labs(x = expression(paste("rate of ", italic("1 inanimated"), "class (by ", underline(bold(younger))," spekers)")),
+       y = expression(paste("rate of ", italic("1 inanimated"), "class (by ", underline(bold(older)), " spekers)")))
+```
+
+Lexems that have been affiliated with first inanimate class will have variability rate 1 for both group so it will appear in right upper corner. Lexems that have been affiliated with second inanimate class will have variability rate 0 for both group so it will appear in left bottom corner. In case some lexemes have been affiliated with one inanimate class by one group and to the other by the other group would appeare in the rest corners, but there is no such cases in our data. Since all cases with no variability are not interesting for us, this dots are not labeled. So all other points on the Figure 4 are showe the variability preferences in each age group. Lexems that appear under the dashed line (with formula $y = x$) are tend to be more variable in older group of speakers, and words that appear under the line are tend to be more variable in younger group of speakers. So from the Figure 4 we clearly see that variability among some lexems (only 27 of 106) is shared between both age groups (e. g. *plastɨrʲ* 'plaster'), but there are also some lexems that are variable in one group and not variable in the other (e. g. *sputnʲik* 'satellite' or *ɡol* 'goal').
+
 ### 5. Conclusion
 
-The Upper Andi dialects have an unusually large number of noun classes in comparison with neighbouring languages and other Nakh-Daghestanian languages. This is caused by the distinction of multiple classes for inanimate objects. While the assignment of the masculine, feminine and animate classes is clearly semantically motivated, we could discern no obvious pattern for the assignment of a particular inanimate class. Therefore, we decided to conduct an experiment testing the class attribution of 114 words referring to inanimate objects (and a few insects that are usually categorized with inanimate objects. The speakers of the Zilo dialect of Andi showed high levels of consent. As our experiment showed, variation occurs both in the native and the borrowed vocabulary, though for borrowings it is much higher. A hierarchical clustering of the experimental results divided the group of speakers into older and younger speakers; *И КТО У НАС В ИТОГЕ БОЛЕЕ ВАРИАТИВЕН?*
-
+The Upper Andi dialects have an unusually large number of noun classes in comparison with neighbouring languages and other Nakh-Daghestanian languages. This is caused by the distinction of multiple classes for inanimate objects. While the assignment of the masculine, feminine and animate classes is clearly semantically motivated, we could discern no obvious pattern for the assignment of a particular inanimate class. Therefore, we decided to conduct an experiment testing the class attribution of 114 words referring to inanimate objects (and a few insects that are usually categorized with inanimate objects. The speakers of the Zilo dialect of Andi showed high levels of consent. As our experiment showed, variation occurs both in the native and the borrowed vocabulary, though for borrowings it is much higher. A hierarchical clustering of the experimental results divided the group of speakers into older and younger speakers. The variation is higher within group of younger speakers. The variation in class asignment is not homogeneous among the age groups and could be devided on variation shared by two age groups, and unique for each age group.
 
 ### Bibliography
 

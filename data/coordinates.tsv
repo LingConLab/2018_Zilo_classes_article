@@ -1,4 +1,890 @@
 EngNames	Lat	Lon	Language	Group	Family	color	glottocode	dialect	classes	source	source_bibtex	label	class
+Botlikh	42.667813	46.221451	Botlikh	Andic	Nakh-Daghestanian	sandybrown	botl1242		3	[Gudava 1962: 251]	"@book{302441,
+  address       = {Tblisi},
+  author        = {T'ogo E. Gudava},
+  pages         = {264},
+  publisher     = {Sak'art'velos SSR mec'nierebat'a akademiis gamomc'emloba},
+  title         = {Bot'lixuri ena: grammatikuli analizi, tek'stebi, lek'sikoni},
+  year          = {1962}
+  }"		3
+Miarso	42.654059	46.175643	Botlikh	Andic	Nakh-Daghestanian	sandybrown	botl1242		3	[Gudava 1962: 251]	"@book{302441,
+  address       = {Tblisi},
+  author        = {T'ogo E. Gudava},
+  pages         = {264},
+  publisher     = {Sak'art'velos SSR mec'nierebat'a akademiis gamomc'emloba},
+  title         = {Bot'lixuri ena: grammatikuli analizi, tek'stebi, lek'sikoni},
+  year          = {1962}
+  }"		3
+Ashino	42.683462	46.156727	Botlikh	Andic	Nakh-Daghestanian	sandybrown							3
+Anchik (Anchikh)	42.608098	46.271717	Karata	Andic	Nakh-Daghestanian	tomato3	anch1238	анчихский	3	[Magomedbekova 1971: 5]	"@book{12541,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  publisher  = {Metsniereba},
+  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
+  year       = {1971}
+  }"		3
+Archo	42.597691	46.305756	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  publisher  = {Metsniereba},
+  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
+  year       = {1971}
+  }"		3
+Karata	42.5942	46.3419	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  publisher  = {Metsniereba},
+  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
+  year       = {1971}
+  }"		3
+Mashtada	42.61362	46.314659	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  publisher  = {Metsniereba},
+  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
+  year       = {1971}
+  }"		3
+Nizhnee Inkhelo	42.645134	46.259367	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  publisher  = {Metsniereba},
+  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
+  year       = {1971}
+  }"		3
+Rachabulda	42.617256	46.300014	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  publisher  = {Metsniereba},
+  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
+  year       = {1971}
+  }"		3
+Ratsitl'	42.63788	46.33455	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  publisher  = {Metsniereba},
+  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
+  year       = {1971}
+  }"		3
+Siukh	42.5999	46.54462	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  publisher  = {Metsniereba},
+  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
+  year       = {1971}
+  }"		3
+Anduz	43.52361	46.87639	Karata	Andic	Nakh-Daghestanian	tomato3							3
+Indira	43.495013	46.80715	Karata	Andic	Nakh-Daghestanian	tomato3							3
+Inkhelo (Novoe Inkhelo)	43.46797	46.61451	Karata	Andic	Nakh-Daghestanian	tomato3							3
+Kaziyurt	43.38808	47.03489	Karata	Andic	Nakh-Daghestanian	tomato3							3
+Kirpichkutan	43.46198	46.61053	Karata	Andic	Nakh-Daghestanian	tomato3							3
+Tukita	42.57056	46.37278	Karata	Andic	Nakh-Daghestanian	tomato3							3
+Verkhnee Inkhelo	42.62035	46.329732	Karata	Andic	Nakh-Daghestanian	tomato3							3
+Шалажи	43.092778	45.359722	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 115]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Бамут	43.1575	45.199722	Chechen	Nakh	Nakh-Daghestanian		melk1240	мелхинский	5	[Arsakhanov 1969: 138]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Меши	42.752222	45.178611	Chechen	Nakh	Nakh-Daghestanian		melk1240	мелхинский	5	[Arsakhanov 1969: 138]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Ведено	42.956944	46.110278	Chechen	Nakh	Nakh-Daghestanian		plos1238	плоскостный	5	[Arsakhanov 1969: 148]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Khasavyurt	43.246769	46.58939	Chechen	Nakh	Nakh-Daghestanian			аккинский	5	[Arsakhanov 1969: 16]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Алхан-Юрт	43.230833	45.565556	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Ачалой	42.784786	45.971356	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Босой	42.776391	45.902043	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Буни	42.725755	46.034167	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Дай	42.771944	45.854722	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Закан-Юрт	43.263611	45.419167	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Макажой	42.749168	46.064999	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Ригахой	42.725755	46.034167	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Садой	42.701835	46.063155	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Самашки	43.292222	45.303889	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Тундух	42.734574	46.04	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Хиндой	42.703677	46.006265	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Хой	42.750984	46.127223	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Гучум-Кали	42.796944	45.63	Chechen	Nakh	Nakh-Daghestanian		itum1244	итум-калинский	5	[Arsakhanov 1969: 87]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Итум-Кали	42.730833	45.571944	Chechen	Nakh	Nakh-Daghestanian		itum1244	итум-калинский	5	[Arsakhanov 1969: 87]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Нихалой	42.840278	45.662778	Chechen	Nakh	Nakh-Daghestanian		itum1244	итум-калинский	5	[Arsakhanov 1969: 87]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Акка	42.856944	45.240278	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Галанчож	42.883333	45.3	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Зарха	42.940751	45.42166	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Зенгали	42.845833	45.272222	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Моцарой	42.889705	45.370211	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Никарой	42.822218	45.366323	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Ошни	42.770556	45.378333	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Рошни-Чу	43.088889	45.4575	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Хайбах	42.877222	45.357778	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Хилой	42.862804	45.41693	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Автуры	43.160556	46.013889	Chechen	Nakh	Nakh-Daghestanian								6
+Агишбатой	43.012222	46.108056	Chechen	Nakh	Nakh-Daghestanian								6
+Агишты	43.021667	45.891389	Chechen	Nakh	Nakh-Daghestanian								6
+Азамат-Юрт	43.418889	46.286111	Chechen	Nakh	Nakh-Daghestanian								6
+Айти-Мохк	43.090278	46.346944	Chechen	Nakh	Nakh-Daghestanian								6
+Алиханаул	42.751391	46.050726	Chechen	Nakh	Nakh-Daghestanian								6
+Аллерой	43.213889	46.289722	Chechen	Nakh	Nakh-Daghestanian								6
+Алпатово	43.704722	45.240833	Chechen	Nakh	Nakh-Daghestanian								6
+Алхазурово	43.062222	45.654722	Chechen	Nakh	Nakh-Daghestanian								6
+Алхан-Кала	43.260556	45.535278	Chechen	Nakh	Nakh-Daghestanian								6
+Алхан-Хутор	42.969722	46.351667	Chechen	Nakh	Nakh-Daghestanian								6
+Ами	42.869444	45.305556	Chechen	Nakh	Nakh-Daghestanian								6
+Амки	42.898611	45.2875	Chechen	Nakh	Nakh-Daghestanian								6
+Арапоаул	42.807979	45.971635	Chechen	Nakh	Nakh-Daghestanian								6
+Аргун	43.294444	45.883889	Chechen	Nakh	Nakh-Daghestanian								6
+Ари-Аул	42.755433	46.027349	Chechen	Nakh	Nakh-Daghestanian								6
+Арсой	42.725755	46.034167	Chechen	Nakh	Nakh-Daghestanian								6
+Асланбек-Шерипово	42.841637	45.754997	Chechen	Nakh	Nakh-Daghestanian								6
+Ахкинчу-Борзой	43.13	46.195833	Chechen	Nakh	Nakh-Daghestanian								6
+Ачерешки	43.080475	46.136395	Chechen	Nakh	Nakh-Daghestanian								6
+Ачхой-Мартан	43.189167	45.284722	Chechen	Nakh	Nakh-Daghestanian								6
+Бавлой	42.7575	45.450833	Chechen	Nakh	Nakh-Daghestanian								6
+Багинаул	42.816586	45.926653	Chechen	Nakh	Nakh-Daghestanian								6
+Байтарки	43.02	46.475556	Chechen	Nakh	Nakh-Daghestanian								6
+Бакинаул	42.818714	45.930168	Chechen	Nakh	Nakh-Daghestanian								6
+Балансу	43.120833	46.387778	Chechen	Nakh	Nakh-Daghestanian								6
+Бартхой	43.453913	45.230875	Chechen	Nakh	Nakh-Daghestanian								6
+Бас-Гордали	43.044439	46.213426	Chechen	Nakh	Nakh-Daghestanian								6
+Басары Ялхора	42.915278	45.277778	Chechen	Nakh	Nakh-Daghestanian								6
+Басты	42.72353	45.28124	Chechen	Nakh	Nakh-Daghestanian								6
+Басхо	42.741171	45.547363	Chechen	Nakh	Nakh-Daghestanian								6
+Басхой	42.726667	45.4225	Chechen	Nakh	Nakh-Daghestanian								6
+Батыркин	43.770778	45.675793	Chechen	Nakh	Nakh-Daghestanian								6
+Баулой	42.7575	45.450833	Chechen	Nakh	Nakh-Daghestanian								6
+Бачи-Юрт	43.216389	46.193889	Chechen	Nakh	Nakh-Daghestanian								6
+Башин-Кали	42.805843	45.619154	Chechen	Nakh	Nakh-Daghestanian								6
+Бежанов	43.650834	45.674939	Chechen	Nakh	Nakh-Daghestanian								6
+Бекейаул	42.798395	45.975564	Chechen	Nakh	Nakh-Daghestanian								6
+Беки	42.7291	45.368891	Chechen	Nakh	Nakh-Daghestanian								6
+Бекум-Кале	42.857429	45.714459	Chechen	Nakh	Nakh-Daghestanian								6
+Белгатой	42.980833	46.213056	Chechen	Nakh	Nakh-Daghestanian								6
+Бельты	43.10407	46.168959	Chechen	Nakh	Nakh-Daghestanian								6
+Бенесты	42.741458	45.221111	Chechen	Nakh	Nakh-Daghestanian								6
+Бено-Юрт	43.689722	45.051944	Chechen	Nakh	Nakh-Daghestanian								6
+Беной	43.063611	46.014167	Chechen	Nakh	Nakh-Daghestanian								6
+Беной-Ведено	42.9475	46.280833	Chechen	Nakh	Nakh-Daghestanian								6
+Беркат-Юрт	43.323611	45.829722	Chechen	Nakh	Nakh-Daghestanian								6
+Бетти-Мохк	43.11527	46.33604	Chechen	Nakh	Nakh-Daghestanian								6
+Бечиги	42.72	45.49	Chechen	Nakh	Nakh-Daghestanian								6
+Бешил-Ирзу	43.124972	46.304227	Chechen	Nakh	Nakh-Daghestanian								6
+Бильтой-Юрт	43.2825	46.295278	Chechen	Nakh	Nakh-Daghestanian								6
+Бильты	43.056106	46.347876	Chechen	Nakh	Nakh-Daghestanian								6
+Бицы	42.847648	45.277371	Chechen	Nakh	Nakh-Daghestanian								6
+Богачерой	42.824533	45.86431	Chechen	Nakh	Nakh-Daghestanian								6
+Большие Варанды	42.901111	45.684167	Chechen	Nakh	Nakh-Daghestanian								6
+Бончу-Дига	42.96511	45.33223	Chechen	Nakh	Nakh-Daghestanian								6
+Борзой	42.8425	45.628056	Chechen	Nakh	Nakh-Daghestanian								6
+Бороздиновская	43.81	46.590833	Chechen	Nakh	Nakh-Daghestanian								6
+Ботурчу	42.72694	45.54556	Chechen	Nakh	Nakh-Daghestanian								6
+Брагуны	43.44	46.096944	Chechen	Nakh	Nakh-Daghestanian								6
+Братское	43.649167	44.883611	Chechen	Nakh	Nakh-Daghestanian								6
+Бугарой	42.754722	45.616667	Chechen	Nakh	Nakh-Daghestanian								6
+Булгат-Ирзу	42.981873	46.372068	Chechen	Nakh	Nakh-Daghestanian								6
+Бурунское	43.860278	45.777778	Chechen	Nakh	Nakh-Daghestanian								6
+Бути	42.661389	45.97	Chechen	Nakh	Nakh-Daghestanian								6
+Бушни	42.81474	45.3854	Chechen	Nakh	Nakh-Daghestanian								6
+Валерик	43.176389	45.404167	Chechen	Nakh	Nakh-Daghestanian								6
+Ведучи	42.684722	45.568611	Chechen	Nakh	Nakh-Daghestanian								6
+Верхатой	43.030871	46.02981	Chechen	Nakh	Nakh-Daghestanian								6
+Верхнее Ца-Ведено	43.010956	46.061483	Chechen	Nakh	Nakh-Daghestanian								6
+Верхние Курчали	43.011249	46.194426	Chechen	Nakh	Nakh-Daghestanian								6
+Верхний Ажгечу	42.9625	45.385776	Chechen	Nakh	Nakh-Daghestanian								6
+Верхний Кий	42.808056	45.2475	Chechen	Nakh	Nakh-Daghestanian								6
+Верхний Наур	43.613611	45.2475	Chechen	Nakh	Nakh-Daghestanian								6
+Верхний Нойбер	43.255556	46.283056	Chechen	Nakh	Nakh-Daghestanian								6
+Верхний Цамадой	42.675278	45.644722	Chechen	Nakh	Nakh-Daghestanian								6
+Верхний-Бара	42.809444	45.42	Chechen	Nakh	Nakh-Daghestanian								6
+Виноградное	43.463333	45.861111	Chechen	Nakh	Nakh-Daghestanian								6
+Вовга	42.857222	45.238333	Chechen	Nakh	Nakh-Daghestanian								6
+Воскресеновское	43.554722	46.385278	Chechen	Nakh	Nakh-Daghestanian								6
+Восход	43.852125	46.40915	Chechen	Nakh	Nakh-Daghestanian								6
+Высокогорное	42.871377	45.617187	Chechen	Nakh	Nakh-Daghestanian								6
+Вярды	42.845041	45.690766	Chechen	Nakh	Nakh-Daghestanian								6
+Газгородок	43.529071	45.69083	Chechen	Nakh	Nakh-Daghestanian								6
+Газиаул	42.833774	45.936593	Chechen	Nakh	Nakh-Daghestanian								6
+Галайты	43.174167	46.388056	Chechen	Nakh	Nakh-Daghestanian								6
+Гансолчу	43.124492	46.2406	Chechen	Nakh	Nakh-Daghestanian								6
+Гвардейское	43.673333	45.051944	Chechen	Nakh	Nakh-Daghestanian								6
+Гезах	42.733611	45.441667	Chechen	Nakh	Nakh-Daghestanian								6
+Гезехой	42.733611	45.441667	Chechen	Nakh	Nakh-Daghestanian								6
+Гезинчу	43.052957	46.171268	Chechen	Nakh	Nakh-Daghestanian								6
+Гелдагана	43.215278	46.040278	Chechen	Nakh	Nakh-Daghestanian								6
+Геморой	42.791802	45.30704	Chechen	Nakh	Nakh-Daghestanian								6
+Гендерген	43.021944	46.334722	Chechen	Nakh	Nakh-Daghestanian								6
+Герзель-Аул	43.249167	46.3975	Chechen	Nakh	Nakh-Daghestanian								6
+Герменчук	43.188889	45.924444	Chechen	Nakh	Nakh-Daghestanian								6
+Гехи	43.161389	45.471111	Chechen	Nakh	Nakh-Daghestanian								6
+Гехи-Чу	43.094444	45.412222	Chechen	Nakh	Nakh-Daghestanian								6
+Геши	42.783688	45.317959	Chechen	Nakh	Nakh-Daghestanian								6
+Гикало	43.229167	45.733611	Chechen	Nakh	Nakh-Daghestanian								6
+Гиляны	43.078889	46.48	Chechen	Nakh	Nakh-Daghestanian								6
+Гой-Чу	43.056111	45.608611	Chechen	Nakh	Nakh-Daghestanian								6
+Гойское	43.086667	45.600278	Chechen	Nakh	Nakh-Daghestanian								6
+Гойты	43.164167	45.622222	Chechen	Nakh	Nakh-Daghestanian								6
+Горгачи	42.855068	45.666837	Chechen	Nakh	Nakh-Daghestanian								6
+Гордали	43.042119	46.226801	Chechen	Nakh	Nakh-Daghestanian								6
+Гордали-Юрт	43.285278	46.315833	Chechen	Nakh	Nakh-Daghestanian								6
+Горячеисточненская	43.428611	45.774167	Chechen	Nakh	Nakh-Daghestanian								6
+Гребенская	43.526667	46.369167	Chechen	Nakh	Nakh-Daghestanian								6
+Грозный	43.316667	45.7	Chechen	Nakh	Nakh-Daghestanian								6
+Гудермес	43.355278	46.099167	Chechen	Nakh	Nakh-Daghestanian								6
+Гуни	43.056667	46.106111	Chechen	Nakh	Nakh-Daghestanian								6
+Гунюшки	43.393951	45.38172	Chechen	Nakh	Nakh-Daghestanian								6
+Гуржи-Мохк	43.00056	46.33806	Chechen	Nakh	Nakh-Daghestanian								6
+Гурчу	42.955419	45.313221	Chechen	Nakh	Nakh-Daghestanian								6
+Гухой	42.791944	45.55	Chechen	Nakh	Nakh-Daghestanian								6
+Гуш-Керт	42.85526	45.685567	Chechen	Nakh	Nakh-Daghestanian								6
+Давыденко	43.271389	45.26	Chechen	Nakh	Nakh-Daghestanian								6
+Дальнее	43.789633	45.092068	Chechen	Nakh	Nakh-Daghestanian								6
+Дарбанхи	43.3975	46.031944	Chechen	Nakh	Nakh-Daghestanian								6
+Даттах	43.011389	46.398333	Chechen	Nakh	Nakh-Daghestanian								6
+Дачу-Борзой	43.009167	45.726389	Chechen	Nakh	Nakh-Daghestanian								6
+Девлатби-Хутор	43.110833	46.3	Chechen	Nakh	Nakh-Daghestanian								6
+Денги-Юрт	42.997483	46.296816	Chechen	Nakh	Nakh-Daghestanian								6
+Дех-Йисте	42.835555	45.731973	Chechen	Nakh	Nakh-Daghestanian								6
+Джагларги	43.111389	46.109167	Chechen	Nakh	Nakh-Daghestanian								6
+Джалка	43.318889	45.993611	Chechen	Nakh	Nakh-Daghestanian								6
+Джанхой-Хутор	43.061111	46.136389	Chechen	Nakh	Nakh-Daghestanian								6
+Джелашхой	42.762717	45.401728	Chechen	Nakh	Nakh-Daghestanian								6
+Джелошка	42.764119	46.062327	Chechen	Nakh	Nakh-Daghestanian								6
+Дженчу	42.929167	45.305556	Chechen	Nakh	Nakh-Daghestanian								6
+Джигурты	43.16	46.176667	Chechen	Nakh	Nakh-Daghestanian								6
+Джубикаул	42.834107	45.924044	Chechen	Nakh	Nakh-Daghestanian								6
+Доза	42.70201	45.28279	Chechen	Nakh	Nakh-Daghestanian								6
+Долинский	43.405892	45.383715	Chechen	Nakh	Nakh-Daghestanian								6
+Дружба	43.403333	45.6575	Chechen	Nakh	Nakh-Daghestanian								6
+ДТС «Чишки»	43.019082	45.71085	Chechen	Nakh	Nakh-Daghestanian								6
+Дуба-Юрт	43.040278	45.730278	Chechen	Nakh	Nakh-Daghestanian								6
+Дубовская	43.793333	46.5525	Chechen	Nakh	Nakh-Daghestanian								6
+Дуц-Хутор	42.928047	45.850196	Chechen	Nakh	Nakh-Daghestanian								6
+Дышне-Ведено	42.951389	46.134722	Chechen	Nakh	Nakh-Daghestanian								6
+Ёкка-Эрбала	42.96084	45.26747	Chechen	Nakh	Nakh-Daghestanian								6
+Ердычи	42.830556	45.190278	Chechen	Nakh	Nakh-Daghestanian								6
+Жима-Эрбала	42.97189	45.25772	Chechen	Nakh	Nakh-Daghestanian								6
+Замай-Юрт	43.150833	46.378889	Chechen	Nakh	Nakh-Daghestanian								6
+Зандак	43.058333	46.455833	Chechen	Nakh	Nakh-Daghestanian								6
+Зандак-Ара	43.028604	46.352359	Chechen	Nakh	Nakh-Daghestanian								6
+Зебир-Юрт	43.508333	45.357778	Chechen	Nakh	Nakh-Daghestanian								6
+Зелёное	43.818442	45.983529	Chechen	Nakh	Nakh-Daghestanian								6
+Знаменское	43.677778	45.128056	Chechen	Nakh	Nakh-Daghestanian								6
+Зоны	42.948333	45.722222	Chechen	Nakh	Nakh-Daghestanian								6
+Зумсой	42.758333	45.640278	Chechen	Nakh	Nakh-Daghestanian								6
+Идах	42.771111	45.448333	Chechen	Nakh	Nakh-Daghestanian								6
+Икильчи	42.735345	45.212748	Chechen	Nakh	Nakh-Daghestanian								6
+Иласхан-Юрт	43.278889	46.098333	Chechen	Nakh	Nakh-Daghestanian								6
+Ильиновская	43.364167	45.95	Chechen	Nakh	Nakh-Daghestanian								6
+Ирзиткале	42.8764	45.25482	Chechen	Nakh	Nakh-Daghestanian								6
+Исай-Юрт	43.07445	46.275598	Chechen	Nakh	Nakh-Daghestanian								6
+Итыркале	42.88168	45.25964	Chechen	Nakh	Nakh-Daghestanian								6
+Ихарой	42.735663	46.083421	Chechen	Nakh	Nakh-Daghestanian								6
+Ишхой-Хутор	43.077261	46.358045	Chechen	Nakh	Nakh-Daghestanian								6
+Ишхой-Юрт	43.215833	46.391111	Chechen	Nakh	Nakh-Daghestanian								6
+Ищёрская	43.715278	45.133333	Chechen	Nakh	Nakh-Daghestanian								6
+Кади-Юрт	43.313889	46.311944	Chechen	Nakh	Nakh-Daghestanian								6
+Кай	42.7332	45.25552	Chechen	Nakh	Nakh-Daghestanian								6
+Калаус	43.561111	45.098611	Chechen	Nakh	Nakh-Daghestanian								6
+Калиновская	43.576944	45.522222	Chechen	Nakh	Nakh-Daghestanian								6
+Камалхи	42.706181	45.280203	Chechen	Nakh	Nakh-Daghestanian								6
+Капустино	43.776929	45.334864	Chechen	Nakh	Nakh-Daghestanian								6
+Каргалинская	43.743056	46.476389	Chechen	Nakh	Nakh-Daghestanian								6
+Каршыга-Аул	43.572778	46.17	Chechen	Nakh	Nakh-Daghestanian								6
+Катыр-Юрт	43.168611	45.368056	Chechen	Nakh	Nakh-Daghestanian								6
+Кезеной	42.758113	46.120906	Chechen	Nakh	Nakh-Daghestanian								6
+Кеймехки	42.8225	45.224167	Chechen	Nakh	Nakh-Daghestanian								6
+Кейчу	42.898333	45.443333	Chechen	Nakh	Nakh-Daghestanian								6
+Кел-База	42.922338	45.455311	Chechen	Nakh	Nakh-Daghestanian								6
+Кель-Аул	42.936872	45.871524	Chechen	Nakh	Nakh-Daghestanian								6
+Кенахо	42.763056	45.357778	Chechen	Nakh	Nakh-Daghestanian								6
+Кенхи	42.641667	45.945556	Chechen	Nakh	Nakh-Daghestanian								6
+Кень-Юрт	43.544444	45.512222	Chechen	Nakh	Nakh-Daghestanian								6
+Кереты	42.84784	45.28642	Chechen	Nakh	Nakh-Daghestanian								6
+Керла-Юрт	43.399879	45.307771	Chechen	Nakh	Nakh-Daghestanian								6
+Кесалой	42.602778	45.74	Chechen	Nakh	Nakh-Daghestanian								6
+Кечнюхи	42.986147	45.273358	Chechen	Nakh	Nakh-Daghestanian								6
+Кирбит	42.87523	45.31163	Chechen	Nakh	Nakh-Daghestanian								6
+Кирбичу	42.88328	45.32175	Chechen	Nakh	Nakh-Daghestanian								6
+Кири	42.674722	45.914167	Chechen	Nakh	Nakh-Daghestanian								6
+Клинков	43.753473	45.445968	Chechen	Nakh	Nakh-Daghestanian								6
+Коби	43.513056	46.244722	Chechen	Nakh	Nakh-Daghestanian								6
+Кожвинчу	42.840278	45.223611	Chechen	Nakh	Nakh-Daghestanian								6
+Козлов	43.72561	45.555419	Chechen	Nakh	Nakh-Daghestanian								6
+Кокадой	42.749722	45.583889	Chechen	Nakh	Nakh-Daghestanian								6
+Комарово	43.521389	45.0425	Chechen	Nakh	Nakh-Daghestanian								6
+Комсомольское	43.271389	45.825556	Chechen	Nakh	Nakh-Daghestanian								6
+Конжухой	42.76104	45.591216	Chechen	Nakh	Nakh-Daghestanian								6
+Корен-Беной	43.089976	46.146151	Chechen	Nakh	Nakh-Daghestanian								6
+Коричу	42.73195	45.4	Chechen	Nakh	Nakh-Daghestanian								6
+Корнеев	43.918603	45.602841	Chechen	Nakh	Nakh-Daghestanian								6
+Коротах	42.7175	45.263333	Chechen	Nakh	Nakh-Daghestanian								6
+Котланкин	43.695278	45.767778	Chechen	Nakh	Nakh-Daghestanian								6
+Кошкельды	43.253056	46.349167	Chechen	Nakh	Nakh-Daghestanian								6
+Краснопартизанский	43.243264	45.546768	Chechen	Nakh	Nakh-Daghestanian								6
+Красностепновское	43.352778	45.446678	Chechen	Nakh	Nakh-Daghestanian								6
+Кречетово	43.906622	45.0916	Chechen	Nakh	Nakh-Daghestanian								6
+Кулары	43.238333	45.500278	Chechen	Nakh	Nakh-Daghestanian								6
+Кулинхой	42.725755	46.034167	Chechen	Nakh	Nakh-Daghestanian								6
+Кулой	42.767584	45.956857	Chechen	Nakh	Nakh-Daghestanian								6
+Курахи	42.811878	45.300976	Chechen	Nakh	Nakh-Daghestanian								6
+Курдюковская	43.691111	46.45	Chechen	Nakh	Nakh-Daghestanian								6
+Курчалой	43.204444	46.087778	Chechen	Nakh	Nakh-Daghestanian								6
+Лаха-Варанды	43.044444	45.708889	Chechen	Nakh	Nakh-Daghestanian								6
+Левобережное	43.570556	45.630556	Chechen	Nakh	Nakh-Daghestanian								6
+Лем-Корц	42.946425	46.313219	Chechen	Nakh	Nakh-Daghestanian								6
+Лешкорой	42.8525	45.876389	Chechen	Nakh	Nakh-Daghestanian								6
+Люнки	42.70167	45.47944	Chechen	Nakh	Nakh-Daghestanian								6
+Магусты	42.964722	45.380556	Chechen	Nakh	Nakh-Daghestanian								6
+Майорский	43.835318	45.489437	Chechen	Nakh	Nakh-Daghestanian								6
+Майртуп	43.204167	46.131944	Chechen	Nakh	Nakh-Daghestanian								6
+Майский	43.473425	45.12623	Chechen	Nakh	Nakh-Daghestanian								6
+Малилаул	42.714121	46.046985	Chechen	Nakh	Nakh-Daghestanian								6
+Малые Шуани	43.080556	46.222778	Chechen	Nakh	Nakh-Daghestanian								6
+Малый Харсеной	42.939051	45.5161	Chechen	Nakh	Nakh-Daghestanian								6
+Мамонаул	42.795508	46.018485	Chechen	Nakh	Nakh-Daghestanian								6
+Марзой-Мохк	43.086401	46.101729	Chechen	Nakh	Nakh-Daghestanian								6
+Мартан-Чу	43.068056	45.555278	Chechen	Nakh	Nakh-Daghestanian								6
+Махкеты	42.963611	45.906389	Chechen	Nakh	Nakh-Daghestanian								6
+Мачи	42.86143	45.30445	Chechen	Nakh	Nakh-Daghestanian								6
+Мекен-Юрт	43.608611	45.405833	Chechen	Nakh	Nakh-Daghestanian								6
+Мекенская	43.668889	45.384444	Chechen	Nakh	Nakh-Daghestanian								6
+Мелчхи	43.310035	46.18759	Chechen	Nakh	Nakh-Daghestanian								6
+Меседой	43.01556	46.127196	Chechen	Nakh	Nakh-Daghestanian								6
+Мескер-Юрт	43.251389	45.909444	Chechen	Nakh	Nakh-Daghestanian								6
+Мескеты	43.161389	46.357778	Chechen	Nakh	Nakh-Daghestanian								6
+Мехкешты	43.055158	46.394023	Chechen	Nakh	Nakh-Daghestanian								6
+Мештерой	42.791802	45.30704	Chechen	Nakh	Nakh-Daghestanian								6
+Мирный	43.694859	45.476983	Chechen	Nakh	Nakh-Daghestanian								6
+Моцкарой	42.78464	45.38695	Chechen	Nakh	Nakh-Daghestanian								6
+Мулкой	42.815278	45.534167	Chechen	Nakh	Nakh-Daghestanian								6
+Мускали	42.841914	45.736043	Chechen	Nakh	Nakh-Daghestanian								6
+Мусолт-Аул	42.833849	45.772461	Chechen	Nakh	Nakh-Daghestanian								6
+Мушечу	42.914444	45.408889	Chechen	Nakh	Nakh-Daghestanian								6
+Набережный	43.506683	45.787822	Chechen	Nakh	Nakh-Daghestanian								6
+Нагорное	43.417064	45.1803	Chechen	Nakh	Nakh-Daghestanian								6
+Надтеречное	43.618611	45.338889	Chechen	Nakh	Nakh-Daghestanian								6
+Наурская	43.648611	45.314722	Chechen	Nakh	Nakh-Daghestanian								6
+Нахорусты	42.736884	45.242665	Chechen	Nakh	Nakh-Daghestanian								6
+Нежелой	42.813029	45.905298	Chechen	Nakh	Nakh-Daghestanian								6
+Нефтянка	42.956646	46.085505	Chechen	Nakh	Nakh-Daghestanian								6
+Нижние Курчали	43.02774	46.16736	Chechen	Nakh	Nakh-Daghestanian								6
+Нижний Ажгечу	42.952566	45.402498	Chechen	Nakh	Nakh-Daghestanian								6
+Нижний Кий	42.8	45.266667	Chechen	Nakh	Nakh-Daghestanian								6
+Нижний Нойбера	43.266667	46.278889	Chechen	Nakh	Nakh-Daghestanian								6
+Ники-Хита	43.115634	46.069614	Chechen	Nakh	Nakh-Daghestanian								6
+Николаевская	43.531389	45.772222	Chechen	Nakh	Nakh-Daghestanian								6
+Ново-Щедринская	43.485833	46.101389	Chechen	Nakh	Nakh-Daghestanian								6
+Новое Солкушино	43.587222	45.681944	Chechen	Nakh	Nakh-Daghestanian								6
+Новотерское	43.602222	45.589444	Chechen	Nakh	Nakh-Daghestanian								6
+Новые Атаги	43.127778	45.791111	Chechen	Nakh	Nakh-Daghestanian								6
+Новый Замай-Юрт	43.134106	46.358098	Chechen	Nakh	Nakh-Daghestanian								6
+Новый Шарой	43.254444	45.277778	Chechen	Nakh	Nakh-Daghestanian								6
+Новый Энгеной	43.308333	46.026111	Chechen	Nakh	Nakh-Daghestanian								6
+Ножай-Юрт	43.097222	46.379167	Chechen	Nakh	Nakh-Daghestanian								6
+Нохчи-Келой	42.757485	45.93201	Chechen	Nakh	Nakh-Daghestanian								6
+Нырков	43.785403	45.386589	Chechen	Nakh	Nakh-Daghestanian								6
+Обильный	43.578322	45.746836	Chechen	Nakh	Nakh-Daghestanian								6
+Обузалаул	42.736781	46.064346	Chechen	Nakh	Nakh-Daghestanian								6
+Ожи-Юрт	43.001515	46.316986	Chechen	Nakh	Nakh-Daghestanian								6
+Октябрьское	42.980278	46.080833	Chechen	Nakh	Nakh-Daghestanian								6
+Ораз-Аул	43.556944	45.960278	Chechen	Nakh	Nakh-Daghestanian								6
+Орлиное	43.514868	45.109405	Chechen	Nakh	Nakh-Daghestanian								6
+Оси-Юрт	42.986703	46.299984	Chechen	Nakh	Nakh-Daghestanian								6
+Отта	42.80278	45.38437	Chechen	Nakh	Nakh-Daghestanian								6
+Очаки	42.838889	45.322222	Chechen	Nakh	Nakh-Daghestanian								6
+Памятой	42.856111	45.693889	Chechen	Nakh	Nakh-Daghestanian								6
+Парабоч	43.47266	46.294588	Chechen	Nakh	Nakh-Daghestanian								6
+Париаул	42.821457	46.024116	Chechen	Nakh	Nakh-Daghestanian								6
+Пачу	42.983333	46.316667	Chechen	Nakh	Nakh-Daghestanian								6
+Пеж-Басхой	42.726787	45.423122	Chechen	Nakh	Nakh-Daghestanian								6
+Пежей	42.713149	45.427287	Chechen	Nakh	Nakh-Daghestanian								6
+Первомайская	43.401944	45.522778	Chechen	Nakh	Nakh-Daghestanian								6
+Песчаное	43.908765	45.805986	Chechen	Nakh	Nakh-Daghestanian								6
+Петропавловская	43.386389	45.828889	Chechen	Nakh	Nakh-Daghestanian								6
+Пешхой	42.853158	45.480087	Chechen	Nakh	Nakh-Daghestanian								6
+Пионерское	43.042469	45.708575	Chechen	Nakh	Nakh-Daghestanian								6
+Побединское	43.400833	45.433056	Chechen	Nakh	Nakh-Daghestanian								6
+Подгорное	43.583611	45.4425	Chechen	Nakh	Nakh-Daghestanian								6
+Постный	43.72376	45.632907	Chechen	Nakh	Nakh-Daghestanian								6
+Правобережное	43.524444	45.699722	Chechen	Nakh	Nakh-Daghestanian								6
+Пригородное	43.254444	45.756944	Chechen	Nakh	Nakh-Daghestanian								6
+Примыкание	43.302662	45.823233	Chechen	Nakh	Nakh-Daghestanian								6
+Пролетарское	43.3875	45.597222	Chechen	Nakh	Nakh-Daghestanian								6
+Пэтэаул	42.7862	46.006488	Chechen	Nakh	Nakh-Daghestanian								6
+Радужное	43.404981	45.397468	Chechen	Nakh	Nakh-Daghestanian								6
+Регита	43.095556	46.124722	Chechen	Nakh	Nakh-Daghestanian								6
+Рогун-Кажа	43.074444	46.348611	Chechen	Nakh	Nakh-Daghestanian								6
+Рубежное	43.728611	45.172222	Chechen	Nakh	Nakh-Daghestanian								6
+Рунное	43.919694	46.044794	Chechen	Nakh	Nakh-Daghestanian								6
+Рядухой	42.850278	45.649444	Chechen	Nakh	Nakh-Daghestanian								6
+Савельевская	43.630278	45.459722	Chechen	Nakh	Nakh-Daghestanian								6
+Садовое	43.408459	45.595744	Chechen	Nakh	Nakh-Daghestanian								6
+Сакан-Иисте	42.689444	45.476389	Chechen	Nakh	Nakh-Daghestanian								6
+Сакилинжили	42.94052	45.39714	Chechen	Nakh	Nakh-Daghestanian								6
+Саной	42.796389	45.791111	Chechen	Nakh	Nakh-Daghestanian								6
+Сары-Су	43.839722	46.4325	Chechen	Nakh	Nakh-Daghestanian								6
+Сатти	42.840278	45.706111	Chechen	Nakh	Nakh-Daghestanian								6
+Сахани	42.725931	45.22735	Chechen	Nakh	Nakh-Daghestanian								6
+Саясан	43.061111	46.290833	Chechen	Nakh	Nakh-Daghestanian								6
+Свободное	43.75891	45.25946	Chechen	Nakh	Nakh-Daghestanian								6
+Селиванкин	43.877187	45.6737	Chechen	Nakh	Nakh-Daghestanian								6
+Сельментаузен	42.940833	45.863056	Chechen	Nakh	Nakh-Daghestanian								6
+Семиколодцев	43.662959	45.773835	Chechen	Nakh	Nakh-Daghestanian								6
+Сенахой	42.757193	45.410183	Chechen	Nakh	Nakh-Daghestanian								6
+Сержень-Юрт	43.109722	45.974167	Chechen	Nakh	Nakh-Daghestanian								6
+Симсир	43.009444	46.465833	Chechen	Nakh	Nakh-Daghestanian								6
+Ситников	43.732241	45.514123	Chechen	Nakh	Nakh-Daghestanian								6
+Совраги	43.085328	46.334168	Chechen	Nakh	Nakh-Daghestanian								6
+Согунты	43.141111	46.343889	Chechen	Nakh	Nakh-Daghestanian								6
+Средние Курчали	43.014986	46.186189	Chechen	Nakh	Nakh-Daghestanian								6
+Старо-Щедринская	43.469722	46.106667	Chechen	Nakh	Nakh-Daghestanian								6
+Старогладовская	43.635833	46.416389	Chechen	Nakh	Nakh-Daghestanian								6
+Старые Атаги	43.1	45.738583	Chechen	Nakh	Nakh-Daghestanian								6
+Старый Ачхой	43.130556	45.2975	Chechen	Nakh	Nakh-Daghestanian								6
+Стерч-Керч	42.992102	46.344103	Chechen	Nakh	Nakh-Daghestanian								6
+Сюжи	42.890278	45.639722	Chechen	Nakh	Nakh-Daghestanian								6
+Тазбичи	42.707778	45.597222	Chechen	Nakh	Nakh-Daghestanian								6
+Тазен-Кала	42.980989	46.182928	Chechen	Nakh	Nakh-Daghestanian								6
+Танги-Чу	43.071667	45.511667	Chechen	Nakh	Nakh-Daghestanian								6
+Тарсенаул	42.810232	46.031935	Chechen	Nakh	Nakh-Daghestanian								6
+Татай-Хутор	43.038611	46.485556	Chechen	Nakh	Nakh-Daghestanian								6
+Тевзана	42.975278	45.911111	Chechen	Nakh	Nakh-Daghestanian								6
+Терское	43.551944	45.563611	Chechen	Nakh	Nakh-Daghestanian								6
+Терта	42.74854	45.19644	Chechen	Nakh	Nakh-Daghestanian								6
+Толстой-Юрт	43.444444	45.778889	Chechen	Nakh	Nakh-Daghestanian								6
+Толь	42.911111	45.284722	Chechen	Nakh	Nakh-Daghestanian								6
+Тонгахой	42.729134	45.465145	Chechen	Nakh	Nakh-Daghestanian								6
+Тумсой	42.833333	45.63	Chechen	Nakh	Nakh-Daghestanian								6
+Тунжи-Аул	42.727656	46.048118	Chechen	Nakh	Nakh-Daghestanian								6
+Турты-Хутор	43.093333	46.27	Chechen	Nakh	Nakh-Daghestanian								6
+Тусхарой	42.724444	45.530278	Chechen	Nakh	Nakh-Daghestanian								6
+Тухой	42.759357	45.436405	Chechen	Nakh	Nakh-Daghestanian								6
+Тушикаул	42.789305	46.018159	Chechen	Nakh	Nakh-Daghestanian								6
+Улус-Керт	42.988056	45.76	Chechen	Nakh	Nakh-Daghestanian								6
+Ульяновское	43.630556	45.601389	Chechen	Nakh	Nakh-Daghestanian								6
+Урдюхой	42.842357	45.702284	Chechen	Nakh	Nakh-Daghestanian								6
+Урус-Мартан	43.129167	45.541667	Chechen	Nakh	Nakh-Daghestanian								6
+Усадьба Госхоза «Минеральный»	43.545966	45.326088	Chechen	Nakh	Nakh-Daghestanian								6
+Усум-Хутор	43.117337	46.16837	Chechen	Nakh	Nakh-Daghestanian								6
+Ушкалой	42.777778	45.611389	Chechen	Nakh	Nakh-Daghestanian								6
+Фрунзенское	43.6375	45.663611	Chechen	Nakh	Nakh-Daghestanian								6
+Хай-Хецагуни	42.847034	45.900792	Chechen	Nakh	Nakh-Daghestanian								6
+Хаккой	42.881667	45.674722	Chechen	Nakh	Nakh-Daghestanian								6
+Хакмадой	42.620556	45.83	Chechen	Nakh	Nakh-Daghestanian								6
+Хал-Килой	42.838889	45.818056	Chechen	Nakh	Nakh-Daghestanian								6
+Хамби-Ирзи	43.234167	45.451667	Chechen	Nakh	Nakh-Daghestanian								6
+Хангиш-Юрт	43.413056	46.236111	Chechen	Nakh	Nakh-Daghestanian								6
+Харачой	42.904167	46.138611	Chechen	Nakh	Nakh-Daghestanian								6
+Харкарой	42.72463	46.068851	Chechen	Nakh	Nakh-Daghestanian								6
+Харсеной	42.914167	45.549722	Chechen	Nakh	Nakh-Daghestanian								6
+Харьковское	43.476667	46.333889	Chechen	Nakh	Nakh-Daghestanian								6
+Хаттуни	42.980278	45.936944	Chechen	Nakh	Nakh-Daghestanian								6
+Хахалги	42.840278	45.155556	Chechen	Nakh	Nakh-Daghestanian								6
+Хашки-Мохк	43.064966	46.19528	Chechen	Nakh	Nakh-Daghestanian								6
+Хелди	42.675278	45.644722	Chechen	Nakh	Nakh-Daghestanian								6
+Хиди-Хутор	43.11	46.146944	Chechen	Nakh	Nakh-Daghestanian								6
+Хилдехарой	42.748333	45.667778	Chechen	Nakh	Nakh-Daghestanian								6
+Химой	42.654444	45.852222	Chechen	Nakh	Nakh-Daghestanian								6
+Хорци-Пада	42.718039	45.410685	Chechen	Nakh	Nakh-Daghestanian								6
+Хоч-Коч	42.92909	45.42358	Chechen	Nakh	Nakh-Daghestanian								6
+Хочи-Ара	43.051831	46.320541	Chechen	Nakh	Nakh-Daghestanian								6
+Хуландой	42.553333	45.754167	Chechen	Nakh	Nakh-Daghestanian								6
+Ца-Ведено	43.018333	46.052778	Chechen	Nakh	Nakh-Daghestanian								6
+Цацах	42.714722	45.504167	Chechen	Nakh	Nakh-Daghestanian								6
+Целтакумой	42.780514	45.459004	Chechen	Nakh	Nakh-Daghestanian								6
+Центарой	43.221944	46.245833	Chechen	Nakh	Nakh-Daghestanian								6
+Центора-Юрт	43.302778	45.828056	Chechen	Nakh	Nakh-Daghestanian								6
+Цеси	42.680278	45.790833	Chechen	Nakh	Nakh-Daghestanian								6
+Цинчемехи	42.737644	45.227823	Chechen	Nakh	Nakh-Daghestanian								6
+Цоци-Юрт	43.238333	46.000556	Chechen	Nakh	Nakh-Daghestanian								6
+Чайры	42.620556	45.909722	Chechen	Nakh	Nakh-Daghestanian								6
+Чарахаул	42.751768	46.05799	Chechen	Nakh	Nakh-Daghestanian								6
+Чармахой	42.891111	45.390833	Chechen	Nakh	Nakh-Daghestanian								6
+Чарыды	42.738027	45.904195	Chechen	Nakh	Nakh-Daghestanian								6
+Червлённая	43.501389	45.883333	Chechen	Nakh	Nakh-Daghestanian								6
+Червлённая-Узловая	43.446667	45.976944	Chechen	Nakh	Nakh-Daghestanian								6
+Чернокозово	43.673611	45.361111	Chechen	Nakh	Nakh-Daghestanian								6
+Чечель-Хи	43.027549	46.429399	Chechen	Nakh	Nakh-Daghestanian								6
+Чечен-Аул	43.203333	45.783333	Chechen	Nakh	Nakh-Daghestanian								6
+Чиконди-Паде	42.86193	45.26158	Chechen	Nakh	Nakh-Daghestanian								6
+Чишки	43.010278	45.705833	Chechen	Nakh	Nakh-Daghestanian								6
+Чохой	42.79528	45.47041	Chechen	Nakh	Nakh-Daghestanian								6
+Чубах-Кенерой	42.781034	45.915814	Chechen	Nakh	Nakh-Daghestanian								6
+Чуреймохк	42.805749	45.950235	Chechen	Nakh	Nakh-Daghestanian								6
+Чурч-Ирзу	43.081259	46.396071	Chechen	Nakh	Nakh-Daghestanian								6
+Чууш	42.85702	45.3187	Chechen	Nakh	Nakh-Daghestanian								6
+Шаами-Юрт	43.22	45.386389	Chechen	Nakh	Nakh-Daghestanian								6
+Шали	43.14	45.903889	Chechen	Nakh	Nakh-Daghestanian								6
+Шаро-Аргун	42.812222	45.818056	Chechen	Nakh	Nakh-Daghestanian								6
+Шарой	42.629722	45.81	Chechen	Nakh	Nakh-Daghestanian								6
+Шатой	42.871667	45.699167	Chechen	Nakh	Nakh-Daghestanian								6
+Шелковская	43.509167	46.327778	Chechen	Nakh	Nakh-Daghestanian								6
+Шелкозаводская	43.491389	46.308056	Chechen	Nakh	Nakh-Daghestanian								6
+Шерды-Мохк	43.03978	46.156553	Chechen	Nakh	Nakh-Daghestanian								6
+Шикарой	42.630278	45.760556	Chechen	Nakh	Nakh-Daghestanian								6
+Школхе	42.63929	45.935388	Chechen	Nakh	Nakh-Daghestanian								6
+Шовхал-Берды	43.1125	46.319444	Chechen	Nakh	Nakh-Daghestanian								6
+Шуани	43.335556	46.193889	Chechen	Nakh	Nakh-Daghestanian								6
+Шунди	42.732778	45.358611	Chechen	Nakh	Nakh-Daghestanian								6
+Шундили	42.698533	45.417414	Chechen	Nakh	Nakh-Daghestanian								6
+Шюнда	42.732778	45.358611	Chechen	Nakh	Nakh-Daghestanian								6
+Эзихо	42.766389	45.503611	Chechen	Nakh	Nakh-Daghestanian								6
+Элистанжи	42.9725	46.017222	Chechen	Nakh	Nakh-Daghestanian								6
+Эльдепорой	42.75036	45.3921	Chechen	Nakh	Nakh-Daghestanian								6
+Энгель-Юрт	43.326944	46.353889	Chechen	Nakh	Nakh-Daghestanian								6
+Энгеной	43.0375	46.284444	Chechen	Nakh	Nakh-Daghestanian								6
+Эникали	43.074444	46.1525	Chechen	Nakh	Nakh-Daghestanian								6
+Эрсеной	42.9975	46.146389	Chechen	Nakh	Nakh-Daghestanian								6
+Эрстахо	42.736111	45.396389	Chechen	Nakh	Nakh-Daghestanian								6
+Эрстахой	42.736111	45.396389	Chechen	Nakh	Nakh-Daghestanian								6
+Эшилхатой	42.963561	46.053813	Chechen	Nakh	Nakh-Daghestanian								6
+Юбилейное	43.596298	45.641154	Chechen	Nakh	Nakh-Daghestanian								6
+Юкерч-Келой	42.851387	45.734965	Chechen	Nakh	Nakh-Daghestanian								6
+Ялхой-Мохк	43.107778	46.189722	Chechen	Nakh	Nakh-Daghestanian								6
+Ялхорой	42.916667	45.283333	Chechen	Nakh	Nakh-Daghestanian								6
+Янди	43.128056	45.328889	Chechen	Nakh	Nakh-Daghestanian								6
+Ярышмарды	42.996944	45.711667	Chechen	Nakh	Nakh-Daghestanian								6
+Яхкачара	42.939444	45.430556	Chechen	Nakh	Nakh-Daghestanian								6
+Abdurashid	43.38644	46.67183	Chechen	Nakh	Nakh-Daghestanian								6
+Adil'otar	43.4603	46.6761	Chechen	Nakh	Nakh-Daghestanian								6
+Akbulatyurt	43.45934	46.38598	Chechen	Nakh	Nakh-Daghestanian								6
+Bammatbekyurt	43.27167	46.61972	Chechen	Nakh	Nakh-Daghestanian								6
+Bammatyurt	43.3442	46.6075	Chechen	Nakh	Nakh-Daghestanian								6
+Banayyurt (Akhar)	43.1375	46.4225	Chechen	Nakh	Nakh-Daghestanian								6
+Bayramaul	43.296175	46.730134	Chechen	Nakh	Nakh-Daghestanian								6
+Boragangechuv	43.30852	46.43596	Chechen	Nakh	Nakh-Daghestanian								6
+Chankayurt	43.56935	46.56515	Chechen	Nakh	Nakh-Daghestanian								6
+Charavali	43.16188	46.50747	Chechen	Nakh	Nakh-Daghestanian								6
+Danukh	42.84282	46.6275	Chechen	Nakh	Nakh-Daghestanian								6
+Duchi	43.129826	47.460438	Chechen	Nakh	Nakh-Daghestanian								6
+Genzheaul	43.2934	46.75729	Chechen	Nakh	Nakh-Daghestanian								6
+Germenchik	43.5403	46.7256	Chechen	Nakh	Nakh-Daghestanian								6
+Kadyrotar	43.44099	46.65515	Chechen	Nakh	Nakh-Daghestanian								6
+Kandauraul	43.3414	46.5664	Chechen	Nakh	Nakh-Daghestanian								6
+Kemsiyurt	43.43439	46.43548	Chechen	Nakh	Nakh-Daghestanian								6
+Khamavyurt	43.2722	46.4286	Chechen	Nakh	Nakh-Daghestanian								6
+Lopukhovka	43.93463	47.4079	Chechen	Nakh	Nakh-Daghestanian								6
+Mogilyovskoe	43.26106	46.62714	Chechen	Nakh	Nakh-Daghestanian								6
+Nitsovkra	42.15951	47.081271	Chechen	Nakh	Nakh-Daghestanian								6
+Novolakskoe	43.1169	46.4839	Chechen	Nakh	Nakh-Daghestanian								6
+Novosel'skoe	43.4275	46.4667	Chechen	Nakh	Nakh-Daghestanian								6
+Nuradilovo	43.284357	46.4645	Chechen	Nakh	Nakh-Daghestanian								6
+Osmanyurt	43.3056	46.5308	Chechen	Nakh	Nakh-Daghestanian								6
+Petrakovskoe	43.25332	46.6321	Chechen	Nakh	Nakh-Daghestanian								6
+Pokrovskoe	43.2886	46.6658	Chechen	Nakh	Nakh-Daghestanian								6
+Pyatiletka	43.37262	46.96553	Chechen	Nakh	Nakh-Daghestanian								6
+Simsir	43.31315	46.54329	Chechen	Nakh	Nakh-Daghestanian								6
+Solnechnoe	43.2761	46.5069	Chechen	Nakh	Nakh-Daghestanian								6
+Tatayurt	43.5619	46.9961	Chechen	Nakh	Nakh-Daghestanian								6
+Tutlar	43.46703	46.68876	Chechen	Nakh	Nakh-Daghestanian								6
+Ukrainskoe	43.91396	47.00889	Chechen	Nakh	Nakh-Daghestanian								6
+Umarotar	43.42388	46.69025	Chechen	Nakh	Nakh-Daghestanian								6
+Yamansu (Shushiya)	43.13546	46.425114	Chechen	Nakh	Nakh-Daghestanian								6
+Andi	42.7856	46.2639	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Andi	5
+Ashali	42.76963	46.30878	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Ashali	
+Chanko	42.717936	46.246417	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Chanko	
+Gagatli	42.800361	46.292645	Andi	Andic	Nakh-Daghestanian	orange3	gaga1250	гагатлинский	5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Gagatli	5
+Gunkha	42.78968	46.28275	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Gunkha	
+Khando	42.72694	46.23361	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Khando	
+Kvankhidatli	42.65789	46.271742	Andi	Andic	Nakh-Daghestanian	orange3	kvan1238	кванхидатльский	3	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Kwankhidatli	3
+Mekheturi	42.70556	46.2375	Andi	Andic	Nakh-Daghestanian	orange3						Mekheturi	
+Muni	42.680242	46.308874	Andi	Andic	Nakh-Daghestanian	orange3	muni1255	мунинский	2	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Muni	3
+Rikvani	42.782304	46.319372	Andi	Andic	Nakh-Daghestanian	orange3	rikv1238	рикванинский	5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Rikvani	6
+Rushukha	42.71509	46.28112	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Rushukha	
+Tsibilta	42.74322	46.24311	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Tsibilta	
+Zilo	42.731394	46.319223	Andi	Andic	Nakh-Daghestanian	orange3	zilo1238	зиловский	5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Zilo	5
 Burkikhan	41.806356	47.538467	Aghul	Lezgic	Nakh-Daghestanian	green	agul1244		0	[Ihilov 1967: 9-15]	"@book{ihilov1967,
   title={Narodnosti lezginskoy grupy. Etnographicheskoe issledovanie proshlogo i nastoyashego lezgin, tabasarantsev, rutulov, tsakhurov, agulov},
   author={Ihilov, Mikhail Matatovykh},
@@ -224,105 +1110,8 @@ Tad-Magitl'	42.550266	46.348953	Akhvakh	Andic	Nakh-Daghestanian	gold2	akhv1239		
   }"		
 Kamyshkutan	43.500222	46.621832	Akhvakh	Andic	Nakh-Daghestanian	gold2							
 Tsvakilkolo	42.55213	46.35351	Akhvakh	Andic	Nakh-Daghestanian	gold2							
-Andi	42.7856	46.2639	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
-  address = {Moskva},
-  author  = {Sulejmanov, Ya.G.},
-  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
-  note    = {po dannym s. Rikvani},
-  title   = {Grammaticheskij očerk andijskogo yazyka},
-  year    = {1957}
-  }"	Andi	5
-Ashali	42.76963	46.30878	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
-  address = {Moskva},
-  author  = {Sulejmanov, Ya.G.},
-  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
-  note    = {po dannym s. Rikvani},
-  title   = {Grammaticheskij očerk andijskogo yazyka},
-  year    = {1957}
-  }"	Ashali	
-Chanko	42.717936	46.246417	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
-  address = {Moskva},
-  author  = {Sulejmanov, Ya.G.},
-  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
-  note    = {po dannym s. Rikvani},
-  title   = {Grammaticheskij očerk andijskogo yazyka},
-  year    = {1957}
-  }"	Chanko	
-Gagatli	42.800361	46.292645	Andi	Andic	Nakh-Daghestanian	orange3	gaga1250	гагатлинский	5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
-  address = {Moskva},
-  author  = {Sulejmanov, Ya.G.},
-  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
-  note    = {po dannym s. Rikvani},
-  title   = {Grammaticheskij očerk andijskogo yazyka},
-  year    = {1957}
-  }"	Gagatli	5
-Gunkha	42.78968	46.28275	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
-  address = {Moskva},
-  author  = {Sulejmanov, Ya.G.},
-  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
-  note    = {po dannym s. Rikvani},
-  title   = {Grammaticheskij očerk andijskogo yazyka},
-  year    = {1957}
-  }"	Gunkha	
-Khando	42.72694	46.23361	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
-  address = {Moskva},
-  author  = {Sulejmanov, Ya.G.},
-  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
-  note    = {po dannym s. Rikvani},
-  title   = {Grammaticheskij očerk andijskogo yazyka},
-  year    = {1957}
-  }"	Khando	
-Kvankhidatli	42.65789	46.271742	Andi	Andic	Nakh-Daghestanian	orange3	kvan1238	кванхидатльский	3	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
-  address = {Moskva},
-  author  = {Sulejmanov, Ya.G.},
-  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
-  note    = {po dannym s. Rikvani},
-  title   = {Grammaticheskij očerk andijskogo yazyka},
-  year    = {1957}
-  }"	Kwankhidatli	3
-Muni	42.680242	46.308874	Andi	Andic	Nakh-Daghestanian	orange3	muni1255	мунинский	2	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
-  address = {Moskva},
-  author  = {Sulejmanov, Ya.G.},
-  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
-  note    = {po dannym s. Rikvani},
-  title   = {Grammaticheskij očerk andijskogo yazyka},
-  year    = {1957}
-  }"	Muni	3
-Rikvani	42.782304	46.319372	Andi	Andic	Nakh-Daghestanian	orange3	rikv1238	рикванинский	5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
-  address = {Moskva},
-  author  = {Sulejmanov, Ya.G.},
-  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
-  note    = {po dannym s. Rikvani},
-  title   = {Grammaticheskij očerk andijskogo yazyka},
-  year    = {1957}
-  }"	Rikvani	6
-Rushukha	42.71509	46.28112	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
-  address = {Moskva},
-  author  = {Sulejmanov, Ya.G.},
-  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
-  note    = {po dannym s. Rikvani},
-  title   = {Grammaticheskij očerk andijskogo yazyka},
-  year    = {1957}
-  }"	Rushukha	
-Tsibilta	42.74322	46.24311	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
-  address = {Moskva},
-  author  = {Sulejmanov, Ya.G.},
-  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
-  note    = {po dannym s. Rikvani},
-  title   = {Grammaticheskij očerk andijskogo yazyka},
-  year    = {1957}
-  }"	Tsibilta	
-Zilo	42.731394	46.319223	Andi	Andic	Nakh-Daghestanian	orange3	zilo1238	зиловский	5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
-  address = {Moskva},
-  author  = {Sulejmanov, Ya.G.},
-  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
-  note    = {po dannym s. Rikvani},
-  title   = {Grammaticheskij očerk andijskogo yazyka},
-  year    = {1957}
-  }"	Zilo	5
 Aytkhan	43.69773	46.82498	Andi	Andic	Nakh-Daghestanian	orange3							
 Dzhugut	43.70835	46.86498	Andi	Andic	Nakh-Daghestanian	orange3							
-Mekheturi	42.70556	46.2375	Andi	Andic	Nakh-Daghestanian	orange3						Mekheturi	
 Novogagatli	43.4561	46.4819	Andi	Andic	Nakh-Daghestanian	orange3							
 Archib	42.0664	46.8678	Archi	Lezgic	Nakh-Daghestanian	limegreen	arch1244		3	[Mikailov 1967: 5]	"@book{117377,
   address = {Machackala},
@@ -1953,23 +2742,6 @@ Karaozek (Karauzek)	43.68663	46.66615	Bezhta	Tsezic	Nakh-Daghestanian	paleviolet
   volume     = {01},
   year       = {1995}
   }"		
-Botlikh	42.667813	46.221451	Botlikh	Andic	Nakh-Daghestanian	sandybrown	botl1242		3	[Gudava 1962: 251]	"@book{302441,
-  address       = {Tblisi},
-  author        = {T'ogo E. Gudava},
-  pages         = {264},
-  publisher     = {Sak'art'velos SSR mec'nierebat'a akademiis gamomc'emloba},
-  title         = {Bot'lixuri ena: grammatikuli analizi, tek'stebi, lek'sikoni},
-  year          = {1962}
-  }"	3	
-Miarso	42.654059	46.175643	Botlikh	Andic	Nakh-Daghestanian	sandybrown	botl1242		3	[Gudava 1962: 251]	"@book{302441,
-  address       = {Tblisi},
-  author        = {T'ogo E. Gudava},
-  pages         = {264},
-  publisher     = {Sak'art'velos SSR mec'nierebat'a akademiis gamomc'emloba},
-  title         = {Bot'lixuri ena: grammatikuli analizi, tek'stebi, lek'sikoni},
-  year          = {1962}
-  }"	3	
-Ashino	42.683462	46.156727	Botlikh	Andic	Nakh-Daghestanian	sandybrown						3	
 Budug	41.18611	48.36861	Budukh	Lezgic	Nakh-Daghestanian	#C7E9C0	budu1249	будухский	4	[Ihilov 1967: 9-15]	"@book{ihilov1967,
   title={Narodnosti lezginskoy grupy. Etnographicheskoe issledovanie proshlogo i nastoyashego lezgin, tabasarantsev, rutulov, tsakhurov, agulov},
   author={Ihilov, Mikhail Matatovykh},
@@ -2059,715 +2831,6 @@ Nechaevka	43.2703	46.9131	Chamalal	Andic	Nakh-Daghestanian	chocolate
 Serebryakovka	43.98115	46.8328	Chamalal	Andic	Nakh-Daghestanian	chocolate							
 Tsidatl'	42.51855	46.05795	Chamalal	Andic	Nakh-Daghestanian	chocolate							
 Tsuydi	42.52334	46.07182	Chamalal	Andic	Nakh-Daghestanian	chocolate							
-Шалажи	43.092778	45.359722	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 115]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Бамут	43.1575	45.199722	Chechen	Nakh	Nakh-Daghestanian		melk1240	мелхинский	5	[Arsakhanov 1969: 138]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Меши	42.752222	45.178611	Chechen	Nakh	Nakh-Daghestanian		melk1240	мелхинский	5	[Arsakhanov 1969: 138]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Ведено	42.956944	46.110278	Chechen	Nakh	Nakh-Daghestanian		plos1238	плоскостный	5	[Arsakhanov 1969: 148]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Khasavyurt	43.246769	46.58939	Chechen	Nakh	Nakh-Daghestanian			аккинский	5	[Arsakhanov 1969: 16]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Алхан-Юрт	43.230833	45.565556	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Ачалой	42.784786	45.971356	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Босой	42.776391	45.902043	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Буни	42.725755	46.034167	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Дай	42.771944	45.854722	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Закан-Юрт	43.263611	45.419167	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Макажой	42.749168	46.064999	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Ригахой	42.725755	46.034167	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Садой	42.701835	46.063155	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Самашки	43.292222	45.303889	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Тундух	42.734574	46.04	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Хиндой	42.703677	46.006265	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Хой	42.750984	46.127223	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Гучум-Кали	42.796944	45.63	Chechen	Nakh	Nakh-Daghestanian		itum1244	итум-калинский	5	[Arsakhanov 1969: 87]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Итум-Кали	42.730833	45.571944	Chechen	Nakh	Nakh-Daghestanian		itum1244	итум-калинский	5	[Arsakhanov 1969: 87]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Нихалой	42.840278	45.662778	Chechen	Nakh	Nakh-Daghestanian		itum1244	итум-калинский	5	[Arsakhanov 1969: 87]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Акка	42.856944	45.240278	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Галанчож	42.883333	45.3	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Зарха	42.940751	45.42166	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Зенгали	42.845833	45.272222	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Моцарой	42.889705	45.370211	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Никарой	42.822218	45.366323	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Ошни	42.770556	45.378333	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Рошни-Чу	43.088889	45.4575	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Хайбах	42.877222	45.357778	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Хилой	42.862804	45.41693	Chechen	Nakh	Nakh-Daghestanian			галанчожский	5	[Arsakhanov 1969: 97]	"@book{102512,
-  address = {Groznyj},
-  author  = {Arsachanov, Israil Abdulgamidovic},
-  pages   = {206},
-  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
-  title   = {Chechenskaya dialektologiya},
-  year    = {1969}
-}"	6	
-Автуры	43.160556	46.013889	Chechen	Nakh	Nakh-Daghestanian							6	
-Агишбатой	43.012222	46.108056	Chechen	Nakh	Nakh-Daghestanian							6	
-Агишты	43.021667	45.891389	Chechen	Nakh	Nakh-Daghestanian							6	
-Азамат-Юрт	43.418889	46.286111	Chechen	Nakh	Nakh-Daghestanian							6	
-Айти-Мохк	43.090278	46.346944	Chechen	Nakh	Nakh-Daghestanian							6	
-Алиханаул	42.751391	46.050726	Chechen	Nakh	Nakh-Daghestanian							6	
-Аллерой	43.213889	46.289722	Chechen	Nakh	Nakh-Daghestanian							6	
-Алпатово	43.704722	45.240833	Chechen	Nakh	Nakh-Daghestanian							6	
-Алхазурово	43.062222	45.654722	Chechen	Nakh	Nakh-Daghestanian							6	
-Алхан-Кала	43.260556	45.535278	Chechen	Nakh	Nakh-Daghestanian							6	
-Алхан-Хутор	42.969722	46.351667	Chechen	Nakh	Nakh-Daghestanian							6	
-Ами	42.869444	45.305556	Chechen	Nakh	Nakh-Daghestanian							6	
-Амки	42.898611	45.2875	Chechen	Nakh	Nakh-Daghestanian							6	
-Арапоаул	42.807979	45.971635	Chechen	Nakh	Nakh-Daghestanian							6	
-Аргун	43.294444	45.883889	Chechen	Nakh	Nakh-Daghestanian							6	
-Ари-Аул	42.755433	46.027349	Chechen	Nakh	Nakh-Daghestanian							6	
-Арсой	42.725755	46.034167	Chechen	Nakh	Nakh-Daghestanian							6	
-Асланбек-Шерипово	42.841637	45.754997	Chechen	Nakh	Nakh-Daghestanian							6	
-Ахкинчу-Борзой	43.13	46.195833	Chechen	Nakh	Nakh-Daghestanian							6	
-Ачерешки	43.080475	46.136395	Chechen	Nakh	Nakh-Daghestanian							6	
-Ачхой-Мартан	43.189167	45.284722	Chechen	Nakh	Nakh-Daghestanian							6	
-Бавлой	42.7575	45.450833	Chechen	Nakh	Nakh-Daghestanian							6	
-Багинаул	42.816586	45.926653	Chechen	Nakh	Nakh-Daghestanian							6	
-Байтарки	43.02	46.475556	Chechen	Nakh	Nakh-Daghestanian							6	
-Бакинаул	42.818714	45.930168	Chechen	Nakh	Nakh-Daghestanian							6	
-Балансу	43.120833	46.387778	Chechen	Nakh	Nakh-Daghestanian							6	
-Бартхой	43.453913	45.230875	Chechen	Nakh	Nakh-Daghestanian							6	
-Бас-Гордали	43.044439	46.213426	Chechen	Nakh	Nakh-Daghestanian							6	
-Басары Ялхора	42.915278	45.277778	Chechen	Nakh	Nakh-Daghestanian							6	
-Басты	42.72353	45.28124	Chechen	Nakh	Nakh-Daghestanian							6	
-Басхо	42.741171	45.547363	Chechen	Nakh	Nakh-Daghestanian							6	
-Басхой	42.726667	45.4225	Chechen	Nakh	Nakh-Daghestanian							6	
-Батыркин	43.770778	45.675793	Chechen	Nakh	Nakh-Daghestanian							6	
-Баулой	42.7575	45.450833	Chechen	Nakh	Nakh-Daghestanian							6	
-Бачи-Юрт	43.216389	46.193889	Chechen	Nakh	Nakh-Daghestanian							6	
-Башин-Кали	42.805843	45.619154	Chechen	Nakh	Nakh-Daghestanian							6	
-Бежанов	43.650834	45.674939	Chechen	Nakh	Nakh-Daghestanian							6	
-Бекейаул	42.798395	45.975564	Chechen	Nakh	Nakh-Daghestanian							6	
-Беки	42.7291	45.368891	Chechen	Nakh	Nakh-Daghestanian							6	
-Бекум-Кале	42.857429	45.714459	Chechen	Nakh	Nakh-Daghestanian							6	
-Белгатой	42.980833	46.213056	Chechen	Nakh	Nakh-Daghestanian							6	
-Бельты	43.10407	46.168959	Chechen	Nakh	Nakh-Daghestanian							6	
-Бенесты	42.741458	45.221111	Chechen	Nakh	Nakh-Daghestanian							6	
-Бено-Юрт	43.689722	45.051944	Chechen	Nakh	Nakh-Daghestanian							6	
-Беной	43.063611	46.014167	Chechen	Nakh	Nakh-Daghestanian							6	
-Беной-Ведено	42.9475	46.280833	Chechen	Nakh	Nakh-Daghestanian							6	
-Беркат-Юрт	43.323611	45.829722	Chechen	Nakh	Nakh-Daghestanian							6	
-Бетти-Мохк	43.11527	46.33604	Chechen	Nakh	Nakh-Daghestanian							6	
-Бечиги	42.72	45.49	Chechen	Nakh	Nakh-Daghestanian							6	
-Бешил-Ирзу	43.124972	46.304227	Chechen	Nakh	Nakh-Daghestanian							6	
-Бильтой-Юрт	43.2825	46.295278	Chechen	Nakh	Nakh-Daghestanian							6	
-Бильты	43.056106	46.347876	Chechen	Nakh	Nakh-Daghestanian							6	
-Бицы	42.847648	45.277371	Chechen	Nakh	Nakh-Daghestanian							6	
-Богачерой	42.824533	45.86431	Chechen	Nakh	Nakh-Daghestanian							6	
-Большие Варанды	42.901111	45.684167	Chechen	Nakh	Nakh-Daghestanian							6	
-Бончу-Дига	42.96511	45.33223	Chechen	Nakh	Nakh-Daghestanian							6	
-Борзой	42.8425	45.628056	Chechen	Nakh	Nakh-Daghestanian							6	
-Бороздиновская	43.81	46.590833	Chechen	Nakh	Nakh-Daghestanian							6	
-Ботурчу	42.72694	45.54556	Chechen	Nakh	Nakh-Daghestanian							6	
-Брагуны	43.44	46.096944	Chechen	Nakh	Nakh-Daghestanian							6	
-Братское	43.649167	44.883611	Chechen	Nakh	Nakh-Daghestanian							6	
-Бугарой	42.754722	45.616667	Chechen	Nakh	Nakh-Daghestanian							6	
-Булгат-Ирзу	42.981873	46.372068	Chechen	Nakh	Nakh-Daghestanian							6	
-Бурунское	43.860278	45.777778	Chechen	Nakh	Nakh-Daghestanian							6	
-Бути	42.661389	45.97	Chechen	Nakh	Nakh-Daghestanian							6	
-Бушни	42.81474	45.3854	Chechen	Nakh	Nakh-Daghestanian							6	
-Валерик	43.176389	45.404167	Chechen	Nakh	Nakh-Daghestanian							6	
-Ведучи	42.684722	45.568611	Chechen	Nakh	Nakh-Daghestanian							6	
-Верхатой	43.030871	46.02981	Chechen	Nakh	Nakh-Daghestanian							6	
-Верхнее Ца-Ведено	43.010956	46.061483	Chechen	Nakh	Nakh-Daghestanian							6	
-Верхние Курчали	43.011249	46.194426	Chechen	Nakh	Nakh-Daghestanian							6	
-Верхний Ажгечу	42.9625	45.385776	Chechen	Nakh	Nakh-Daghestanian							6	
-Верхний Кий	42.808056	45.2475	Chechen	Nakh	Nakh-Daghestanian							6	
-Верхний Наур	43.613611	45.2475	Chechen	Nakh	Nakh-Daghestanian							6	
-Верхний Нойбер	43.255556	46.283056	Chechen	Nakh	Nakh-Daghestanian							6	
-Верхний Цамадой	42.675278	45.644722	Chechen	Nakh	Nakh-Daghestanian							6	
-Верхний-Бара	42.809444	45.42	Chechen	Nakh	Nakh-Daghestanian							6	
-Виноградное	43.463333	45.861111	Chechen	Nakh	Nakh-Daghestanian							6	
-Вовга	42.857222	45.238333	Chechen	Nakh	Nakh-Daghestanian							6	
-Воскресеновское	43.554722	46.385278	Chechen	Nakh	Nakh-Daghestanian							6	
-Восход	43.852125	46.40915	Chechen	Nakh	Nakh-Daghestanian							6	
-Высокогорное	42.871377	45.617187	Chechen	Nakh	Nakh-Daghestanian							6	
-Вярды	42.845041	45.690766	Chechen	Nakh	Nakh-Daghestanian							6	
-Газгородок	43.529071	45.69083	Chechen	Nakh	Nakh-Daghestanian							6	
-Газиаул	42.833774	45.936593	Chechen	Nakh	Nakh-Daghestanian							6	
-Галайты	43.174167	46.388056	Chechen	Nakh	Nakh-Daghestanian							6	
-Гансолчу	43.124492	46.2406	Chechen	Nakh	Nakh-Daghestanian							6	
-Гвардейское	43.673333	45.051944	Chechen	Nakh	Nakh-Daghestanian							6	
-Гезах	42.733611	45.441667	Chechen	Nakh	Nakh-Daghestanian							6	
-Гезехой	42.733611	45.441667	Chechen	Nakh	Nakh-Daghestanian							6	
-Гезинчу	43.052957	46.171268	Chechen	Nakh	Nakh-Daghestanian							6	
-Гелдагана	43.215278	46.040278	Chechen	Nakh	Nakh-Daghestanian							6	
-Геморой	42.791802	45.30704	Chechen	Nakh	Nakh-Daghestanian							6	
-Гендерген	43.021944	46.334722	Chechen	Nakh	Nakh-Daghestanian							6	
-Герзель-Аул	43.249167	46.3975	Chechen	Nakh	Nakh-Daghestanian							6	
-Герменчук	43.188889	45.924444	Chechen	Nakh	Nakh-Daghestanian							6	
-Гехи	43.161389	45.471111	Chechen	Nakh	Nakh-Daghestanian							6	
-Гехи-Чу	43.094444	45.412222	Chechen	Nakh	Nakh-Daghestanian							6	
-Геши	42.783688	45.317959	Chechen	Nakh	Nakh-Daghestanian							6	
-Гикало	43.229167	45.733611	Chechen	Nakh	Nakh-Daghestanian							6	
-Гиляны	43.078889	46.48	Chechen	Nakh	Nakh-Daghestanian							6	
-Гой-Чу	43.056111	45.608611	Chechen	Nakh	Nakh-Daghestanian							6	
-Гойское	43.086667	45.600278	Chechen	Nakh	Nakh-Daghestanian							6	
-Гойты	43.164167	45.622222	Chechen	Nakh	Nakh-Daghestanian							6	
-Горгачи	42.855068	45.666837	Chechen	Nakh	Nakh-Daghestanian							6	
-Гордали	43.042119	46.226801	Chechen	Nakh	Nakh-Daghestanian							6	
-Гордали-Юрт	43.285278	46.315833	Chechen	Nakh	Nakh-Daghestanian							6	
-Горячеисточненская	43.428611	45.774167	Chechen	Nakh	Nakh-Daghestanian							6	
-Гребенская	43.526667	46.369167	Chechen	Nakh	Nakh-Daghestanian							6	
-Грозный	43.316667	45.7	Chechen	Nakh	Nakh-Daghestanian							6	
-Гудермес	43.355278	46.099167	Chechen	Nakh	Nakh-Daghestanian							6	
-Гуни	43.056667	46.106111	Chechen	Nakh	Nakh-Daghestanian							6	
-Гунюшки	43.393951	45.38172	Chechen	Nakh	Nakh-Daghestanian							6	
-Гуржи-Мохк	43.00056	46.33806	Chechen	Nakh	Nakh-Daghestanian							6	
-Гурчу	42.955419	45.313221	Chechen	Nakh	Nakh-Daghestanian							6	
-Гухой	42.791944	45.55	Chechen	Nakh	Nakh-Daghestanian							6	
-Гуш-Керт	42.85526	45.685567	Chechen	Nakh	Nakh-Daghestanian							6	
-Давыденко	43.271389	45.26	Chechen	Nakh	Nakh-Daghestanian							6	
-Дальнее	43.789633	45.092068	Chechen	Nakh	Nakh-Daghestanian							6	
-Дарбанхи	43.3975	46.031944	Chechen	Nakh	Nakh-Daghestanian							6	
-Даттах	43.011389	46.398333	Chechen	Nakh	Nakh-Daghestanian							6	
-Дачу-Борзой	43.009167	45.726389	Chechen	Nakh	Nakh-Daghestanian							6	
-Девлатби-Хутор	43.110833	46.3	Chechen	Nakh	Nakh-Daghestanian							6	
-Денги-Юрт	42.997483	46.296816	Chechen	Nakh	Nakh-Daghestanian							6	
-Дех-Йисте	42.835555	45.731973	Chechen	Nakh	Nakh-Daghestanian							6	
-Джагларги	43.111389	46.109167	Chechen	Nakh	Nakh-Daghestanian							6	
-Джалка	43.318889	45.993611	Chechen	Nakh	Nakh-Daghestanian							6	
-Джанхой-Хутор	43.061111	46.136389	Chechen	Nakh	Nakh-Daghestanian							6	
-Джелашхой	42.762717	45.401728	Chechen	Nakh	Nakh-Daghestanian							6	
-Джелошка	42.764119	46.062327	Chechen	Nakh	Nakh-Daghestanian							6	
-Дженчу	42.929167	45.305556	Chechen	Nakh	Nakh-Daghestanian							6	
-Джигурты	43.16	46.176667	Chechen	Nakh	Nakh-Daghestanian							6	
-Джубикаул	42.834107	45.924044	Chechen	Nakh	Nakh-Daghestanian							6	
-Доза	42.70201	45.28279	Chechen	Nakh	Nakh-Daghestanian							6	
-Долинский	43.405892	45.383715	Chechen	Nakh	Nakh-Daghestanian							6	
-Дружба	43.403333	45.6575	Chechen	Nakh	Nakh-Daghestanian							6	
-ДТС «Чишки»	43.019082	45.71085	Chechen	Nakh	Nakh-Daghestanian							6	
-Дуба-Юрт	43.040278	45.730278	Chechen	Nakh	Nakh-Daghestanian							6	
-Дубовская	43.793333	46.5525	Chechen	Nakh	Nakh-Daghestanian							6	
-Дуц-Хутор	42.928047	45.850196	Chechen	Nakh	Nakh-Daghestanian							6	
-Дышне-Ведено	42.951389	46.134722	Chechen	Nakh	Nakh-Daghestanian							6	
-Ёкка-Эрбала	42.96084	45.26747	Chechen	Nakh	Nakh-Daghestanian							6	
-Ердычи	42.830556	45.190278	Chechen	Nakh	Nakh-Daghestanian							6	
-Жима-Эрбала	42.97189	45.25772	Chechen	Nakh	Nakh-Daghestanian							6	
-Замай-Юрт	43.150833	46.378889	Chechen	Nakh	Nakh-Daghestanian							6	
-Зандак	43.058333	46.455833	Chechen	Nakh	Nakh-Daghestanian							6	
-Зандак-Ара	43.028604	46.352359	Chechen	Nakh	Nakh-Daghestanian							6	
-Зебир-Юрт	43.508333	45.357778	Chechen	Nakh	Nakh-Daghestanian							6	
-Зелёное	43.818442	45.983529	Chechen	Nakh	Nakh-Daghestanian							6	
-Знаменское	43.677778	45.128056	Chechen	Nakh	Nakh-Daghestanian							6	
-Зоны	42.948333	45.722222	Chechen	Nakh	Nakh-Daghestanian							6	
-Зумсой	42.758333	45.640278	Chechen	Nakh	Nakh-Daghestanian							6	
-Идах	42.771111	45.448333	Chechen	Nakh	Nakh-Daghestanian							6	
-Икильчи	42.735345	45.212748	Chechen	Nakh	Nakh-Daghestanian							6	
-Иласхан-Юрт	43.278889	46.098333	Chechen	Nakh	Nakh-Daghestanian							6	
-Ильиновская	43.364167	45.95	Chechen	Nakh	Nakh-Daghestanian							6	
-Ирзиткале	42.8764	45.25482	Chechen	Nakh	Nakh-Daghestanian							6	
-Исай-Юрт	43.07445	46.275598	Chechen	Nakh	Nakh-Daghestanian							6	
-Итыркале	42.88168	45.25964	Chechen	Nakh	Nakh-Daghestanian							6	
-Ихарой	42.735663	46.083421	Chechen	Nakh	Nakh-Daghestanian							6	
-Ишхой-Хутор	43.077261	46.358045	Chechen	Nakh	Nakh-Daghestanian							6	
-Ишхой-Юрт	43.215833	46.391111	Chechen	Nakh	Nakh-Daghestanian							6	
-Ищёрская	43.715278	45.133333	Chechen	Nakh	Nakh-Daghestanian							6	
-Кади-Юрт	43.313889	46.311944	Chechen	Nakh	Nakh-Daghestanian							6	
-Кай	42.7332	45.25552	Chechen	Nakh	Nakh-Daghestanian							6	
-Калаус	43.561111	45.098611	Chechen	Nakh	Nakh-Daghestanian							6	
-Калиновская	43.576944	45.522222	Chechen	Nakh	Nakh-Daghestanian							6	
-Камалхи	42.706181	45.280203	Chechen	Nakh	Nakh-Daghestanian							6	
-Капустино	43.776929	45.334864	Chechen	Nakh	Nakh-Daghestanian							6	
-Каргалинская	43.743056	46.476389	Chechen	Nakh	Nakh-Daghestanian							6	
-Каршыга-Аул	43.572778	46.17	Chechen	Nakh	Nakh-Daghestanian							6	
-Катыр-Юрт	43.168611	45.368056	Chechen	Nakh	Nakh-Daghestanian							6	
-Кезеной	42.758113	46.120906	Chechen	Nakh	Nakh-Daghestanian							6	
-Кеймехки	42.8225	45.224167	Chechen	Nakh	Nakh-Daghestanian							6	
-Кейчу	42.898333	45.443333	Chechen	Nakh	Nakh-Daghestanian							6	
-Кел-База	42.922338	45.455311	Chechen	Nakh	Nakh-Daghestanian							6	
-Кель-Аул	42.936872	45.871524	Chechen	Nakh	Nakh-Daghestanian							6	
-Кенахо	42.763056	45.357778	Chechen	Nakh	Nakh-Daghestanian							6	
-Кенхи	42.641667	45.945556	Chechen	Nakh	Nakh-Daghestanian							6	
-Кень-Юрт	43.544444	45.512222	Chechen	Nakh	Nakh-Daghestanian							6	
-Кереты	42.84784	45.28642	Chechen	Nakh	Nakh-Daghestanian							6	
-Керла-Юрт	43.399879	45.307771	Chechen	Nakh	Nakh-Daghestanian							6	
-Кесалой	42.602778	45.74	Chechen	Nakh	Nakh-Daghestanian							6	
-Кечнюхи	42.986147	45.273358	Chechen	Nakh	Nakh-Daghestanian							6	
-Кирбит	42.87523	45.31163	Chechen	Nakh	Nakh-Daghestanian							6	
-Кирбичу	42.88328	45.32175	Chechen	Nakh	Nakh-Daghestanian							6	
-Кири	42.674722	45.914167	Chechen	Nakh	Nakh-Daghestanian							6	
-Клинков	43.753473	45.445968	Chechen	Nakh	Nakh-Daghestanian							6	
-Коби	43.513056	46.244722	Chechen	Nakh	Nakh-Daghestanian							6	
-Кожвинчу	42.840278	45.223611	Chechen	Nakh	Nakh-Daghestanian							6	
-Козлов	43.72561	45.555419	Chechen	Nakh	Nakh-Daghestanian							6	
-Кокадой	42.749722	45.583889	Chechen	Nakh	Nakh-Daghestanian							6	
-Комарово	43.521389	45.0425	Chechen	Nakh	Nakh-Daghestanian							6	
-Комсомольское	43.271389	45.825556	Chechen	Nakh	Nakh-Daghestanian							6	
-Конжухой	42.76104	45.591216	Chechen	Nakh	Nakh-Daghestanian							6	
-Корен-Беной	43.089976	46.146151	Chechen	Nakh	Nakh-Daghestanian							6	
-Коричу	42.73195	45.4	Chechen	Nakh	Nakh-Daghestanian							6	
-Корнеев	43.918603	45.602841	Chechen	Nakh	Nakh-Daghestanian							6	
-Коротах	42.7175	45.263333	Chechen	Nakh	Nakh-Daghestanian							6	
-Котланкин	43.695278	45.767778	Chechen	Nakh	Nakh-Daghestanian							6	
-Кошкельды	43.253056	46.349167	Chechen	Nakh	Nakh-Daghestanian							6	
-Краснопартизанский	43.243264	45.546768	Chechen	Nakh	Nakh-Daghestanian							6	
-Красностепновское	43.352778	45.446678	Chechen	Nakh	Nakh-Daghestanian							6	
-Кречетово	43.906622	45.0916	Chechen	Nakh	Nakh-Daghestanian							6	
-Кулары	43.238333	45.500278	Chechen	Nakh	Nakh-Daghestanian							6	
-Кулинхой	42.725755	46.034167	Chechen	Nakh	Nakh-Daghestanian							6	
-Кулой	42.767584	45.956857	Chechen	Nakh	Nakh-Daghestanian							6	
-Курахи	42.811878	45.300976	Chechen	Nakh	Nakh-Daghestanian							6	
-Курдюковская	43.691111	46.45	Chechen	Nakh	Nakh-Daghestanian							6	
-Курчалой	43.204444	46.087778	Chechen	Nakh	Nakh-Daghestanian							6	
-Лаха-Варанды	43.044444	45.708889	Chechen	Nakh	Nakh-Daghestanian							6	
-Левобережное	43.570556	45.630556	Chechen	Nakh	Nakh-Daghestanian							6	
-Лем-Корц	42.946425	46.313219	Chechen	Nakh	Nakh-Daghestanian							6	
-Лешкорой	42.8525	45.876389	Chechen	Nakh	Nakh-Daghestanian							6	
-Люнки	42.70167	45.47944	Chechen	Nakh	Nakh-Daghestanian							6	
-Магусты	42.964722	45.380556	Chechen	Nakh	Nakh-Daghestanian							6	
-Майорский	43.835318	45.489437	Chechen	Nakh	Nakh-Daghestanian							6	
-Майртуп	43.204167	46.131944	Chechen	Nakh	Nakh-Daghestanian							6	
-Майский	43.473425	45.12623	Chechen	Nakh	Nakh-Daghestanian							6	
-Малилаул	42.714121	46.046985	Chechen	Nakh	Nakh-Daghestanian							6	
-Малые Шуани	43.080556	46.222778	Chechen	Nakh	Nakh-Daghestanian							6	
-Малый Харсеной	42.939051	45.5161	Chechen	Nakh	Nakh-Daghestanian							6	
-Мамонаул	42.795508	46.018485	Chechen	Nakh	Nakh-Daghestanian							6	
-Марзой-Мохк	43.086401	46.101729	Chechen	Nakh	Nakh-Daghestanian							6	
-Мартан-Чу	43.068056	45.555278	Chechen	Nakh	Nakh-Daghestanian							6	
-Махкеты	42.963611	45.906389	Chechen	Nakh	Nakh-Daghestanian							6	
-Мачи	42.86143	45.30445	Chechen	Nakh	Nakh-Daghestanian							6	
-Мекен-Юрт	43.608611	45.405833	Chechen	Nakh	Nakh-Daghestanian							6	
-Мекенская	43.668889	45.384444	Chechen	Nakh	Nakh-Daghestanian							6	
-Мелчхи	43.310035	46.18759	Chechen	Nakh	Nakh-Daghestanian							6	
-Меседой	43.01556	46.127196	Chechen	Nakh	Nakh-Daghestanian							6	
-Мескер-Юрт	43.251389	45.909444	Chechen	Nakh	Nakh-Daghestanian							6	
-Мескеты	43.161389	46.357778	Chechen	Nakh	Nakh-Daghestanian							6	
-Мехкешты	43.055158	46.394023	Chechen	Nakh	Nakh-Daghestanian							6	
-Мештерой	42.791802	45.30704	Chechen	Nakh	Nakh-Daghestanian							6	
-Мирный	43.694859	45.476983	Chechen	Nakh	Nakh-Daghestanian							6	
-Моцкарой	42.78464	45.38695	Chechen	Nakh	Nakh-Daghestanian							6	
-Мулкой	42.815278	45.534167	Chechen	Nakh	Nakh-Daghestanian							6	
-Мускали	42.841914	45.736043	Chechen	Nakh	Nakh-Daghestanian							6	
-Мусолт-Аул	42.833849	45.772461	Chechen	Nakh	Nakh-Daghestanian							6	
-Мушечу	42.914444	45.408889	Chechen	Nakh	Nakh-Daghestanian							6	
-Набережный	43.506683	45.787822	Chechen	Nakh	Nakh-Daghestanian							6	
-Нагорное	43.417064	45.1803	Chechen	Nakh	Nakh-Daghestanian							6	
-Надтеречное	43.618611	45.338889	Chechen	Nakh	Nakh-Daghestanian							6	
-Наурская	43.648611	45.314722	Chechen	Nakh	Nakh-Daghestanian							6	
-Нахорусты	42.736884	45.242665	Chechen	Nakh	Nakh-Daghestanian							6	
-Нежелой	42.813029	45.905298	Chechen	Nakh	Nakh-Daghestanian							6	
-Нефтянка	42.956646	46.085505	Chechen	Nakh	Nakh-Daghestanian							6	
-Нижние Курчали	43.02774	46.16736	Chechen	Nakh	Nakh-Daghestanian							6	
-Нижний Ажгечу	42.952566	45.402498	Chechen	Nakh	Nakh-Daghestanian							6	
-Нижний Кий	42.8	45.266667	Chechen	Nakh	Nakh-Daghestanian							6	
-Нижний Нойбера	43.266667	46.278889	Chechen	Nakh	Nakh-Daghestanian							6	
-Ники-Хита	43.115634	46.069614	Chechen	Nakh	Nakh-Daghestanian							6	
-Николаевская	43.531389	45.772222	Chechen	Nakh	Nakh-Daghestanian							6	
-Ново-Щедринская	43.485833	46.101389	Chechen	Nakh	Nakh-Daghestanian							6	
-Новое Солкушино	43.587222	45.681944	Chechen	Nakh	Nakh-Daghestanian							6	
-Новотерское	43.602222	45.589444	Chechen	Nakh	Nakh-Daghestanian							6	
-Новые Атаги	43.127778	45.791111	Chechen	Nakh	Nakh-Daghestanian							6	
-Новый Замай-Юрт	43.134106	46.358098	Chechen	Nakh	Nakh-Daghestanian							6	
-Новый Шарой	43.254444	45.277778	Chechen	Nakh	Nakh-Daghestanian							6	
-Новый Энгеной	43.308333	46.026111	Chechen	Nakh	Nakh-Daghestanian							6	
-Ножай-Юрт	43.097222	46.379167	Chechen	Nakh	Nakh-Daghestanian							6	
-Нохчи-Келой	42.757485	45.93201	Chechen	Nakh	Nakh-Daghestanian							6	
-Нырков	43.785403	45.386589	Chechen	Nakh	Nakh-Daghestanian							6	
-Обильный	43.578322	45.746836	Chechen	Nakh	Nakh-Daghestanian							6	
-Обузалаул	42.736781	46.064346	Chechen	Nakh	Nakh-Daghestanian							6	
-Ожи-Юрт	43.001515	46.316986	Chechen	Nakh	Nakh-Daghestanian							6	
-Октябрьское	42.980278	46.080833	Chechen	Nakh	Nakh-Daghestanian							6	
-Ораз-Аул	43.556944	45.960278	Chechen	Nakh	Nakh-Daghestanian							6	
-Орлиное	43.514868	45.109405	Chechen	Nakh	Nakh-Daghestanian							6	
-Оси-Юрт	42.986703	46.299984	Chechen	Nakh	Nakh-Daghestanian							6	
-Отта	42.80278	45.38437	Chechen	Nakh	Nakh-Daghestanian							6	
-Очаки	42.838889	45.322222	Chechen	Nakh	Nakh-Daghestanian							6	
-Памятой	42.856111	45.693889	Chechen	Nakh	Nakh-Daghestanian							6	
-Парабоч	43.47266	46.294588	Chechen	Nakh	Nakh-Daghestanian							6	
-Париаул	42.821457	46.024116	Chechen	Nakh	Nakh-Daghestanian							6	
-Пачу	42.983333	46.316667	Chechen	Nakh	Nakh-Daghestanian							6	
-Пеж-Басхой	42.726787	45.423122	Chechen	Nakh	Nakh-Daghestanian							6	
-Пежей	42.713149	45.427287	Chechen	Nakh	Nakh-Daghestanian							6	
-Первомайская	43.401944	45.522778	Chechen	Nakh	Nakh-Daghestanian							6	
-Песчаное	43.908765	45.805986	Chechen	Nakh	Nakh-Daghestanian							6	
-Петропавловская	43.386389	45.828889	Chechen	Nakh	Nakh-Daghestanian							6	
-Пешхой	42.853158	45.480087	Chechen	Nakh	Nakh-Daghestanian							6	
-Пионерское	43.042469	45.708575	Chechen	Nakh	Nakh-Daghestanian							6	
-Побединское	43.400833	45.433056	Chechen	Nakh	Nakh-Daghestanian							6	
-Подгорное	43.583611	45.4425	Chechen	Nakh	Nakh-Daghestanian							6	
-Постный	43.72376	45.632907	Chechen	Nakh	Nakh-Daghestanian							6	
-Правобережное	43.524444	45.699722	Chechen	Nakh	Nakh-Daghestanian							6	
-Пригородное	43.254444	45.756944	Chechen	Nakh	Nakh-Daghestanian							6	
-Примыкание	43.302662	45.823233	Chechen	Nakh	Nakh-Daghestanian							6	
-Пролетарское	43.3875	45.597222	Chechen	Nakh	Nakh-Daghestanian							6	
-Пэтэаул	42.7862	46.006488	Chechen	Nakh	Nakh-Daghestanian							6	
-Радужное	43.404981	45.397468	Chechen	Nakh	Nakh-Daghestanian							6	
-Регита	43.095556	46.124722	Chechen	Nakh	Nakh-Daghestanian							6	
-Рогун-Кажа	43.074444	46.348611	Chechen	Nakh	Nakh-Daghestanian							6	
-Рубежное	43.728611	45.172222	Chechen	Nakh	Nakh-Daghestanian							6	
-Рунное	43.919694	46.044794	Chechen	Nakh	Nakh-Daghestanian							6	
-Рядухой	42.850278	45.649444	Chechen	Nakh	Nakh-Daghestanian							6	
-Савельевская	43.630278	45.459722	Chechen	Nakh	Nakh-Daghestanian							6	
-Садовое	43.408459	45.595744	Chechen	Nakh	Nakh-Daghestanian							6	
-Сакан-Иисте	42.689444	45.476389	Chechen	Nakh	Nakh-Daghestanian							6	
-Сакилинжили	42.94052	45.39714	Chechen	Nakh	Nakh-Daghestanian							6	
-Саной	42.796389	45.791111	Chechen	Nakh	Nakh-Daghestanian							6	
-Сары-Су	43.839722	46.4325	Chechen	Nakh	Nakh-Daghestanian							6	
-Сатти	42.840278	45.706111	Chechen	Nakh	Nakh-Daghestanian							6	
-Сахани	42.725931	45.22735	Chechen	Nakh	Nakh-Daghestanian							6	
-Саясан	43.061111	46.290833	Chechen	Nakh	Nakh-Daghestanian							6	
-Свободное	43.75891	45.25946	Chechen	Nakh	Nakh-Daghestanian							6	
-Селиванкин	43.877187	45.6737	Chechen	Nakh	Nakh-Daghestanian							6	
-Сельментаузен	42.940833	45.863056	Chechen	Nakh	Nakh-Daghestanian							6	
-Семиколодцев	43.662959	45.773835	Chechen	Nakh	Nakh-Daghestanian							6	
-Сенахой	42.757193	45.410183	Chechen	Nakh	Nakh-Daghestanian							6	
-Сержень-Юрт	43.109722	45.974167	Chechen	Nakh	Nakh-Daghestanian							6	
-Симсир	43.009444	46.465833	Chechen	Nakh	Nakh-Daghestanian							6	
-Ситников	43.732241	45.514123	Chechen	Nakh	Nakh-Daghestanian							6	
-Совраги	43.085328	46.334168	Chechen	Nakh	Nakh-Daghestanian							6	
-Согунты	43.141111	46.343889	Chechen	Nakh	Nakh-Daghestanian							6	
-Средние Курчали	43.014986	46.186189	Chechen	Nakh	Nakh-Daghestanian							6	
-Старо-Щедринская	43.469722	46.106667	Chechen	Nakh	Nakh-Daghestanian							6	
-Старогладовская	43.635833	46.416389	Chechen	Nakh	Nakh-Daghestanian							6	
-Старые Атаги	43.1	45.738583	Chechen	Nakh	Nakh-Daghestanian							6	
-Старый Ачхой	43.130556	45.2975	Chechen	Nakh	Nakh-Daghestanian							6	
-Стерч-Керч	42.992102	46.344103	Chechen	Nakh	Nakh-Daghestanian							6	
-Сюжи	42.890278	45.639722	Chechen	Nakh	Nakh-Daghestanian							6	
-Тазбичи	42.707778	45.597222	Chechen	Nakh	Nakh-Daghestanian							6	
-Тазен-Кала	42.980989	46.182928	Chechen	Nakh	Nakh-Daghestanian							6	
-Танги-Чу	43.071667	45.511667	Chechen	Nakh	Nakh-Daghestanian							6	
-Тарсенаул	42.810232	46.031935	Chechen	Nakh	Nakh-Daghestanian							6	
-Татай-Хутор	43.038611	46.485556	Chechen	Nakh	Nakh-Daghestanian							6	
-Тевзана	42.975278	45.911111	Chechen	Nakh	Nakh-Daghestanian							6	
-Терское	43.551944	45.563611	Chechen	Nakh	Nakh-Daghestanian							6	
-Терта	42.74854	45.19644	Chechen	Nakh	Nakh-Daghestanian							6	
-Толстой-Юрт	43.444444	45.778889	Chechen	Nakh	Nakh-Daghestanian							6	
-Толь	42.911111	45.284722	Chechen	Nakh	Nakh-Daghestanian							6	
-Тонгахой	42.729134	45.465145	Chechen	Nakh	Nakh-Daghestanian							6	
-Тумсой	42.833333	45.63	Chechen	Nakh	Nakh-Daghestanian							6	
-Тунжи-Аул	42.727656	46.048118	Chechen	Nakh	Nakh-Daghestanian							6	
-Турты-Хутор	43.093333	46.27	Chechen	Nakh	Nakh-Daghestanian							6	
-Тусхарой	42.724444	45.530278	Chechen	Nakh	Nakh-Daghestanian							6	
-Тухой	42.759357	45.436405	Chechen	Nakh	Nakh-Daghestanian							6	
-Тушикаул	42.789305	46.018159	Chechen	Nakh	Nakh-Daghestanian							6	
-Улус-Керт	42.988056	45.76	Chechen	Nakh	Nakh-Daghestanian							6	
-Ульяновское	43.630556	45.601389	Chechen	Nakh	Nakh-Daghestanian							6	
-Урдюхой	42.842357	45.702284	Chechen	Nakh	Nakh-Daghestanian							6	
-Урус-Мартан	43.129167	45.541667	Chechen	Nakh	Nakh-Daghestanian							6	
-Усадьба Госхоза «Минеральный»	43.545966	45.326088	Chechen	Nakh	Nakh-Daghestanian							6	
-Усум-Хутор	43.117337	46.16837	Chechen	Nakh	Nakh-Daghestanian							6	
-Ушкалой	42.777778	45.611389	Chechen	Nakh	Nakh-Daghestanian							6	
-Фрунзенское	43.6375	45.663611	Chechen	Nakh	Nakh-Daghestanian							6	
-Хай-Хецагуни	42.847034	45.900792	Chechen	Nakh	Nakh-Daghestanian							6	
-Хаккой	42.881667	45.674722	Chechen	Nakh	Nakh-Daghestanian							6	
-Хакмадой	42.620556	45.83	Chechen	Nakh	Nakh-Daghestanian							6	
-Хал-Килой	42.838889	45.818056	Chechen	Nakh	Nakh-Daghestanian							6	
-Хамби-Ирзи	43.234167	45.451667	Chechen	Nakh	Nakh-Daghestanian							6	
-Хангиш-Юрт	43.413056	46.236111	Chechen	Nakh	Nakh-Daghestanian							6	
-Харачой	42.904167	46.138611	Chechen	Nakh	Nakh-Daghestanian							6	
-Харкарой	42.72463	46.068851	Chechen	Nakh	Nakh-Daghestanian							6	
-Харсеной	42.914167	45.549722	Chechen	Nakh	Nakh-Daghestanian							6	
-Харьковское	43.476667	46.333889	Chechen	Nakh	Nakh-Daghestanian							6	
-Хаттуни	42.980278	45.936944	Chechen	Nakh	Nakh-Daghestanian							6	
-Хахалги	42.840278	45.155556	Chechen	Nakh	Nakh-Daghestanian							6	
-Хашки-Мохк	43.064966	46.19528	Chechen	Nakh	Nakh-Daghestanian							6	
-Хелди	42.675278	45.644722	Chechen	Nakh	Nakh-Daghestanian							6	
-Хиди-Хутор	43.11	46.146944	Chechen	Nakh	Nakh-Daghestanian							6	
-Хилдехарой	42.748333	45.667778	Chechen	Nakh	Nakh-Daghestanian							6	
-Химой	42.654444	45.852222	Chechen	Nakh	Nakh-Daghestanian							6	
-Хорци-Пада	42.718039	45.410685	Chechen	Nakh	Nakh-Daghestanian							6	
-Хоч-Коч	42.92909	45.42358	Chechen	Nakh	Nakh-Daghestanian							6	
-Хочи-Ара	43.051831	46.320541	Chechen	Nakh	Nakh-Daghestanian							6	
-Хуландой	42.553333	45.754167	Chechen	Nakh	Nakh-Daghestanian							6	
-Ца-Ведено	43.018333	46.052778	Chechen	Nakh	Nakh-Daghestanian							6	
-Цацах	42.714722	45.504167	Chechen	Nakh	Nakh-Daghestanian							6	
-Целтакумой	42.780514	45.459004	Chechen	Nakh	Nakh-Daghestanian							6	
-Центарой	43.221944	46.245833	Chechen	Nakh	Nakh-Daghestanian							6	
-Центора-Юрт	43.302778	45.828056	Chechen	Nakh	Nakh-Daghestanian							6	
-Цеси	42.680278	45.790833	Chechen	Nakh	Nakh-Daghestanian							6	
-Цинчемехи	42.737644	45.227823	Chechen	Nakh	Nakh-Daghestanian							6	
-Цоци-Юрт	43.238333	46.000556	Chechen	Nakh	Nakh-Daghestanian							6	
-Чайры	42.620556	45.909722	Chechen	Nakh	Nakh-Daghestanian							6	
-Чарахаул	42.751768	46.05799	Chechen	Nakh	Nakh-Daghestanian							6	
-Чармахой	42.891111	45.390833	Chechen	Nakh	Nakh-Daghestanian							6	
-Чарыды	42.738027	45.904195	Chechen	Nakh	Nakh-Daghestanian							6	
-Червлённая	43.501389	45.883333	Chechen	Nakh	Nakh-Daghestanian							6	
-Червлённая-Узловая	43.446667	45.976944	Chechen	Nakh	Nakh-Daghestanian							6	
-Чернокозово	43.673611	45.361111	Chechen	Nakh	Nakh-Daghestanian							6	
-Чечель-Хи	43.027549	46.429399	Chechen	Nakh	Nakh-Daghestanian							6	
-Чечен-Аул	43.203333	45.783333	Chechen	Nakh	Nakh-Daghestanian							6	
-Чиконди-Паде	42.86193	45.26158	Chechen	Nakh	Nakh-Daghestanian							6	
-Чишки	43.010278	45.705833	Chechen	Nakh	Nakh-Daghestanian							6	
-Чохой	42.79528	45.47041	Chechen	Nakh	Nakh-Daghestanian							6	
-Чубах-Кенерой	42.781034	45.915814	Chechen	Nakh	Nakh-Daghestanian							6	
-Чуреймохк	42.805749	45.950235	Chechen	Nakh	Nakh-Daghestanian							6	
-Чурч-Ирзу	43.081259	46.396071	Chechen	Nakh	Nakh-Daghestanian							6	
-Чууш	42.85702	45.3187	Chechen	Nakh	Nakh-Daghestanian							6	
-Шаами-Юрт	43.22	45.386389	Chechen	Nakh	Nakh-Daghestanian							6	
-Шали	43.14	45.903889	Chechen	Nakh	Nakh-Daghestanian							6	
-Шаро-Аргун	42.812222	45.818056	Chechen	Nakh	Nakh-Daghestanian							6	
-Шарой	42.629722	45.81	Chechen	Nakh	Nakh-Daghestanian							6	
-Шатой	42.871667	45.699167	Chechen	Nakh	Nakh-Daghestanian							6	
-Шелковская	43.509167	46.327778	Chechen	Nakh	Nakh-Daghestanian							6	
-Шелкозаводская	43.491389	46.308056	Chechen	Nakh	Nakh-Daghestanian							6	
-Шерды-Мохк	43.03978	46.156553	Chechen	Nakh	Nakh-Daghestanian							6	
-Шикарой	42.630278	45.760556	Chechen	Nakh	Nakh-Daghestanian							6	
-Школхе	42.63929	45.935388	Chechen	Nakh	Nakh-Daghestanian							6	
-Шовхал-Берды	43.1125	46.319444	Chechen	Nakh	Nakh-Daghestanian							6	
-Шуани	43.335556	46.193889	Chechen	Nakh	Nakh-Daghestanian							6	
-Шунди	42.732778	45.358611	Chechen	Nakh	Nakh-Daghestanian							6	
-Шундили	42.698533	45.417414	Chechen	Nakh	Nakh-Daghestanian							6	
-Шюнда	42.732778	45.358611	Chechen	Nakh	Nakh-Daghestanian							6	
-Эзихо	42.766389	45.503611	Chechen	Nakh	Nakh-Daghestanian							6	
-Элистанжи	42.9725	46.017222	Chechen	Nakh	Nakh-Daghestanian							6	
-Эльдепорой	42.75036	45.3921	Chechen	Nakh	Nakh-Daghestanian							6	
-Энгель-Юрт	43.326944	46.353889	Chechen	Nakh	Nakh-Daghestanian							6	
-Энгеной	43.0375	46.284444	Chechen	Nakh	Nakh-Daghestanian							6	
-Эникали	43.074444	46.1525	Chechen	Nakh	Nakh-Daghestanian							6	
-Эрсеной	42.9975	46.146389	Chechen	Nakh	Nakh-Daghestanian							6	
-Эрстахо	42.736111	45.396389	Chechen	Nakh	Nakh-Daghestanian							6	
-Эрстахой	42.736111	45.396389	Chechen	Nakh	Nakh-Daghestanian							6	
-Эшилхатой	42.963561	46.053813	Chechen	Nakh	Nakh-Daghestanian							6	
-Юбилейное	43.596298	45.641154	Chechen	Nakh	Nakh-Daghestanian							6	
-Юкерч-Келой	42.851387	45.734965	Chechen	Nakh	Nakh-Daghestanian							6	
-Ялхой-Мохк	43.107778	46.189722	Chechen	Nakh	Nakh-Daghestanian							6	
-Ялхорой	42.916667	45.283333	Chechen	Nakh	Nakh-Daghestanian							6	
-Янди	43.128056	45.328889	Chechen	Nakh	Nakh-Daghestanian							6	
-Ярышмарды	42.996944	45.711667	Chechen	Nakh	Nakh-Daghestanian							6	
-Яхкачара	42.939444	45.430556	Chechen	Nakh	Nakh-Daghestanian							6	
-Abdurashid	43.38644	46.67183	Chechen	Nakh	Nakh-Daghestanian							6	
-Adil'otar	43.4603	46.6761	Chechen	Nakh	Nakh-Daghestanian							6	
-Akbulatyurt	43.45934	46.38598	Chechen	Nakh	Nakh-Daghestanian							6	
-Bammatbekyurt	43.27167	46.61972	Chechen	Nakh	Nakh-Daghestanian							6	
-Bammatyurt	43.3442	46.6075	Chechen	Nakh	Nakh-Daghestanian							6	
-Banayyurt (Akhar)	43.1375	46.4225	Chechen	Nakh	Nakh-Daghestanian							6	
-Bayramaul	43.296175	46.730134	Chechen	Nakh	Nakh-Daghestanian							6	
-Boragangechuv	43.30852	46.43596	Chechen	Nakh	Nakh-Daghestanian							6	
-Chankayurt	43.56935	46.56515	Chechen	Nakh	Nakh-Daghestanian							6	
-Charavali	43.16188	46.50747	Chechen	Nakh	Nakh-Daghestanian							6	
-Danukh	42.84282	46.6275	Chechen	Nakh	Nakh-Daghestanian							6	
-Duchi	43.129826	47.460438	Chechen	Nakh	Nakh-Daghestanian							6	
-Genzheaul	43.2934	46.75729	Chechen	Nakh	Nakh-Daghestanian							6	
-Germenchik	43.5403	46.7256	Chechen	Nakh	Nakh-Daghestanian							6	
-Kadyrotar	43.44099	46.65515	Chechen	Nakh	Nakh-Daghestanian							6	
-Kandauraul	43.3414	46.5664	Chechen	Nakh	Nakh-Daghestanian							6	
-Kemsiyurt	43.43439	46.43548	Chechen	Nakh	Nakh-Daghestanian							6	
-Khamavyurt	43.2722	46.4286	Chechen	Nakh	Nakh-Daghestanian							6	
-Lopukhovka	43.93463	47.4079	Chechen	Nakh	Nakh-Daghestanian							6	
-Mogilyovskoe	43.26106	46.62714	Chechen	Nakh	Nakh-Daghestanian							6	
-Nitsovkra	42.15951	47.081271	Chechen	Nakh	Nakh-Daghestanian							6	
-Novolakskoe	43.1169	46.4839	Chechen	Nakh	Nakh-Daghestanian							6	
-Novosel'skoe	43.4275	46.4667	Chechen	Nakh	Nakh-Daghestanian							6	
-Nuradilovo	43.284357	46.4645	Chechen	Nakh	Nakh-Daghestanian							6	
-Osmanyurt	43.3056	46.5308	Chechen	Nakh	Nakh-Daghestanian							6	
-Petrakovskoe	43.25332	46.6321	Chechen	Nakh	Nakh-Daghestanian							6	
-Pokrovskoe	43.2886	46.6658	Chechen	Nakh	Nakh-Daghestanian							6	
-Pyatiletka	43.37262	46.96553	Chechen	Nakh	Nakh-Daghestanian							6	
-Simsir	43.31315	46.54329	Chechen	Nakh	Nakh-Daghestanian							6	
-Solnechnoe	43.2761	46.5069	Chechen	Nakh	Nakh-Daghestanian							6	
-Tatayurt	43.5619	46.9961	Chechen	Nakh	Nakh-Daghestanian							6	
-Tutlar	43.46703	46.68876	Chechen	Nakh	Nakh-Daghestanian							6	
-Ukrainskoe	43.91396	47.00889	Chechen	Nakh	Nakh-Daghestanian							6	
-Umarotar	43.42388	46.69025	Chechen	Nakh	Nakh-Daghestanian							6	
-Yamansu (Shushiya)	43.13546	46.425114	Chechen	Nakh	Nakh-Daghestanian							6	
 Ameterkmakhi	42.33081	47.213539	Dargwa	Dargwa	Nakh-Daghestanian	blue	cuda1238	цудахарский	3	[Abdullaev 1954: 6-9]	"@book{122947,
   address = {Machackala},
   author  = {Abdullaev, Sagid N.},
@@ -4229,69 +4292,6 @@ Verkhnee Inkhokvari	42.415524	46.065273	Inkhoqwari	Tsezic	Nakh-Daghestanian	deep
   volume     = {234},
   year       = {2009}
   }"		
-Anchik (Anchikh)	42.608098	46.271717	Karata	Andic	Nakh-Daghestanian	tomato3	anch1238	анчихский	3	[Magomedbekova 1971: 5]	"@book{12541,
-  address    = {Tbilisi},
-  author     = {Magomedbekova, Zagidat M.},
-  publisher  = {Metsniereba},
-  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
-  year       = {1971}
-  }"	3	
-Archo	42.597691	46.305756	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
-  address    = {Tbilisi},
-  author     = {Magomedbekova, Zagidat M.},
-  publisher  = {Metsniereba},
-  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
-  year       = {1971}
-  }"	3	
-Karata	42.5942	46.3419	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
-  address    = {Tbilisi},
-  author     = {Magomedbekova, Zagidat M.},
-  publisher  = {Metsniereba},
-  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
-  year       = {1971}
-  }"	3	
-Mashtada	42.61362	46.314659	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
-  address    = {Tbilisi},
-  author     = {Magomedbekova, Zagidat M.},
-  publisher  = {Metsniereba},
-  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
-  year       = {1971}
-  }"	3	
-Nizhnee Inkhelo	42.645134	46.259367	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
-  address    = {Tbilisi},
-  author     = {Magomedbekova, Zagidat M.},
-  publisher  = {Metsniereba},
-  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
-  year       = {1971}
-  }"	3	
-Rachabulda	42.617256	46.300014	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
-  address    = {Tbilisi},
-  author     = {Magomedbekova, Zagidat M.},
-  publisher  = {Metsniereba},
-  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
-  year       = {1971}
-  }"	3	
-Ratsitl'	42.63788	46.33455	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
-  address    = {Tbilisi},
-  author     = {Magomedbekova, Zagidat M.},
-  publisher  = {Metsniereba},
-  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
-  year       = {1971}
-  }"	3	
-Siukh	42.5999	46.54462	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
-  address    = {Tbilisi},
-  author     = {Magomedbekova, Zagidat M.},
-  publisher  = {Metsniereba},
-  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
-  year       = {1971}
-  }"	3	
-Anduz	43.52361	46.87639	Karata	Andic	Nakh-Daghestanian	tomato3						3	
-Indira	43.495013	46.80715	Karata	Andic	Nakh-Daghestanian	tomato3						3	
-Inkhelo (Novoe Inkhelo)	43.46797	46.61451	Karata	Andic	Nakh-Daghestanian	tomato3						3	
-Kaziyurt	43.38808	47.03489	Karata	Andic	Nakh-Daghestanian	tomato3						3	
-Kirpichkutan	43.46198	46.61053	Karata	Andic	Nakh-Daghestanian	tomato3						3	
-Tukita	42.57056	46.37278	Karata	Andic	Nakh-Daghestanian	tomato3						3	
-Verkhnee Inkhelo	42.62035	46.329732	Karata	Andic	Nakh-Daghestanian	tomato3						3	
 Khynalyg	41.17778	48.12694	Khinalugh	Khinalugh	Nakh-Daghestanian	tan	khin1240		4	[Kibrik 1972: 5]	"@book{111520,
   address    = {Moskva},
   author     = {Aleksandr E. Kibrik and S. V. Kodzasov and I. P. Olovyannikova},

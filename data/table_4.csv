@@ -1,0 +1,7 @@
+,age gr.,% abs. agr.,Fleiss' Kappa,z-score,characteristic
+all,older,85.85,0.887,48.3,Almost perfect agreement
+all,younger,79.25,0.845,46.1,Substantial agreement
+native,older,92.98,0.943,37.7,Almost perfect agreement
+native,younger,87.72,0.928,37.1,Almost perfect agreement
+loan,older,77.55,0.804,29.8,Substantial agreement
+loan,younger,69.39,0.741,27.4,Substantial agreement
