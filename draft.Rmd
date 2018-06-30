@@ -92,7 +92,7 @@ map.feature(coord$Language,
             tile = c("Esri.WorldGrayCanvas"))
 ```
 
-Almost all speakers of Andi and other Andic languages speak Avar and Russian in addition to their mother tongue. Avar was the major local lingua franca in this area before the introduction of Russian and, to a certain extent, still is. Speakers of Andic (as well as speakers of Tsezic) languages use it to communicate with each other and with local Avars. The language is also taught in school during the course called "native language" (*rodnoy yazyk* in Russian). For speakers of Andi, Avar is the language of literacy. Before the introduction of modern technology like computers and cellphones, they would write letters to each other in Avar. Currently, they use the extended Cyrillic script of Avar (featuring, among other things, special diacritics for ejective consonants) to write their own language. Russian was introduced as the language of administration and education in the first half of the 20th century and subsequently has strengthened its position throughout the republic, cf. [@dobrushina11]. Andi speakers use it to communicate with people from other regions of Daghestan where Avar is not spoken. It is also used for communication by speakers of Andi dialects that belong to different dialect groups.
+Almost all speakers of Andi and other Andic languages speak Avar and Russian in addition to their mother tongue. Avar was the major local lingua franca in this area before the introduction of Russian and, to a certain extent, still is. Speakers of Andic (as well as speakers of Tsezic) languages use it to communicate with each other and with local Avars. The language is also taught in school during the course called "native language" (*rodnoy yazyk* in Russian). For speakers of Andi, Avar is the language of literacy. Before the introduction of modern technology like computers and cellphones, they would write letters to each other in Avar. Currently, they use the extended Cyrillic script of Avar (featuring, among other things, special diacritics for ejective consonants) to write their own language. Russian was introduced as the language of administration and education in the first half of the 20th century and subsequently has strengthened its position throughout the republic, cf. [@dobrushina11]. Andi speakers use it to communicate with people from other regions of Daghestan where Avar is not spoken.
 
 As a result of this multilingualism, the Andi lexicon contains multiple layers of borrowings from different languages and different periods. Besides loans from Avar and Russian this includes religious terminology from Arabic, and cultural borrowings from Arabic, Persian and Kumyk (a local Turkic language), some of which were evidently borrowed through Avar. The names of all the technical innovations of the 20th and 21st centuries were taken from Russian with little to no phonetic adaptation. In Russian these terms were mostly borrowed and adapted from English. The lack of phonetic adaptation in more recent Russian loans is connected to the increasingly important role of the Russian language in Daghestan. Earlier loans were subjected to some phonetic change, cf. *kempeti* (*kanfeti*, 'sweets'), *tʃajnik'i* (*tʃajnik* 'kettle'), and *ʃːiɡolati* (*ʃːakalat* 'chocolate' [@salimov10: 43], as opposed to more recent words (see Section 4). Borrowed words often have some phonological, orthographic, morphological or syntactic features in the donor language which are incompatible with the system of the recipient language. In this paper, we explore how recent Russian borrowings are integrated in the Andi system of noun classes. There is only one related study on similar experiment in other Nakh-Daghestanian language --- Tsezic  (see [@gagliardi14]), but there are a lot of similar experiments based on other languages (e. g. [@stolz09]).
 
@@ -143,11 +143,11 @@ Based on the lists by Sulejmanov and Salimov, we can conclude that there is no d
 
 ### 4. Experimental data and analysis
 
-In order to evaluate how consistent speakers are in assigning a noun class to certain nouns, we created a list consisting of 25 native and 25 borrowed words for each of the inanimate classes (100 words in total) and some members of the inanimate 3 class from Rikvani (four in total). We included native words in order to detect a difference in variation across speakers between words that are part of the core lexicon and words that are relatively new and obviously come from a different language. When the list was compiled, we arranged the words in a quasi-arbitrary order; we tried to avoid offering the speakers large clusters of borrowings and too much repetition of words belonging to the same class, in order to avoid priming. The complete list of 114 lexical items  as well as all R code[^3] for this article are available online: https://github.com/LingConLab/2018_Zilo_classes_article. For each of the words, we asked speakers to translate the phrase "my X", because the possessive construction in Andi consists of a personal pronoun and a class suffix that agrees with the possessee, for example: *di-w ima* (I-m father) 'my father'. We conducted the experiment with sixteen different speakers, evenly divided among two age groups: younger (13-32) vs. older (34-60). For each age group, we interviewed four female and four male speakers. All of the data were collected during fieldwork in Zilo in August of 2017.
+In order to evaluate how consistent speakers are in assigning a noun class to certain nouns, we created a list consisting of 25 native and 25 borrowed words for each of the inanimate classes (100 words in total) and some members of the inanimate 3 class from Rikvani (four in total). We included native words in order to detect a difference in variation across speakers between words that are part of the core lexicon and words that are relatively new and obviously come from a different language. When the list was compiled, we arranged the words in a quasi-arbitrary order; we tried to avoid offering the speakers large clusters of borrowings and too much repetition of words belonging to the same class, in order to avoid priming. The complete list of 114 lexical items  as well as all R code[^3] for this article are available online: https://github.com/LingConLab/2018_Zilo_classes_article. For each of the words, we asked speakers to translate the phrase "my X", because the possessive construction in Andi consists of a personal pronoun with a class suffix that agrees with the possessee, for example: *di-w ima* (I-m father) 'my father'. We conducted the experiment with sixteen different speakers, evenly divided among two age groups: younger (13-32) vs. older (34-60). For each age group, we interviewed four female and four male speakers. All of the data were collected during fieldwork in Zilo in August of 2017.
 
 [^3]: All statistical tests and visualizations were done in R [@RCoreTeam], using the following packages: *ape* [@paradis04], *ggplot2* [@wickham09], *irr* [@gamer12] and *lingtypology* [@moroz17].
 
-In order to measure how the answers of the speakers are uniform, two measures were used: the percentage of absolute percentage  and the Fleiss' Kappa. The characteristics of the obtained values of the Fleis' kappa were taken from the work [@hallgren12]. The results are shown in Table 3:
+Two measures were used to determine the uniformity of the speakers' answers: the percentage of absolute agreement and Fleiss' Kappa. The characteristics of the obtained values of the Fleis' kappa were taken from [@hallgren12]. The results are shown in Table 3:
 
 
 ```{r}
@@ -198,9 +198,9 @@ Table 3. Pure agreement percentages and Fleiss' kappa for all speakers
 read_csv("data/table_3.csv", na = "")
 ```
 
-As we see from Table 3, the results of the experiment showed a fairly high inter speaker agreement in class assignment task. The agreement of the speakers in group of borrowed words is less (substantial agreement vs. almost perfect agreement). Although the agreement in the native words is quite high, but it is not ideal. This shows that variability in class assignment is observed in all parts of vocabulary, but in borrowings it is much higher.
+As Table 3 shows, the results of the experiment showed a fairly high inter speaker agreement for the class assignment task. The agreement percentage for the group of borrowed words is lower (substantial agreement vs. almost perfect agreement). For the native words agreement is quite high, but not ideal. This shows that variability in class assignment is observed in all parts of the vocabulary, although it is much higher for borrowings.
 
-Also we decided to make a hierarchical clustering on our data, the results of which are presented in Figure 3:
+The results of a hierarchical clustering of our data are presented in Figure 3:
 
 ```{r, dpi = 500, cashe = TRUE, fig.cap= "Figure 3. Dendrogram showing the clusterization of speakers."}
 df %>% 
@@ -231,13 +231,13 @@ plot(as.phylo(hc),
      type = "unrooted")
 ```
 
-On the dendrogram in the Figure 3 we could see 3 different clusters that is defirintiated by age group:
+On the dendrogram in Figure 3, three different clusters can be distinguished, which correspond to age groups:
 
 * older group from 34 to 60;
 * younger group from 13 to 32;
-* one sexteen year old female speaker form a separate cluster.
+* one sixteen year old female speaker forms a separate cluster.
 
-Since hierarchical clustering showes age group importance we decided recalculate all obtained measures for each age group: 
+Since hierarchical clustering demonstrates the significance of age groups, we recalculated all of the obtained measures for the two age groups:
 
 ```{r}
 df %>% 
@@ -321,25 +321,24 @@ all_agreement <- rbind(all_older, all_younger, native_older, native_younger, loa
 ```
 
 
-Table 4. Pure agreement percentages and Fleiss' kappas for different age group
+Table 4. Pure agreement percentages and Fleiss' kappas for different age groups
 ```{r}
 read_csv("data/table_4.csv", na = "")
 ```
 
-As we see from Table 4, in each group of words younger speakers has lesser values of pure agreement percentages and Fless' kappas. It is possible to obtaine this values in two different situations. First, it is possible that lexems where we found variability are the same among two age group, but the level of variability is higher.  It is also possible that variable lexemes are differnt in different groups. We decided to show this visually. First we calculated variability rate for each word in each group. Here are three examples:
+As we see from Table 4, younger speakers have lower values for both the pure agreement percentages and Fleiss' kappas in each group of words. There are two possible scenarios for these values: 1) variability concerns the same lexemes in the different age groups, but that the level of variability is higher among younger speakers; 2) the set of variable lexemes is different for the two groups. Therefore, we decided to visualize which lexemes are most variable for each group. First, we calculated variability rate for each word in each group. Here are three examples:
 
-* the word *inɡur* 'window' were atributed as a first inanimated class by all speakers, so its variability rate will be $$\frac{inanimate_1}{inanimate_1+inanimate_2} = \frac{16}{8+8} = 1$$
+# Гарик, тут что-то не то.. бабочка у нас комната
 
-* the word *haq'u* 'room' were atributed as a first inanimated class by all speakers, so its variability rate will be 
+* the word *inɡur* 'window' was attributed inanimate 1 class by all speakers, so its variability rate will be $$\frac{inanimate_1}{inanimate_1+inanimate_2} = \frac{16}{8+8} = 1$$
+
+* the word *haq'u* 'room' was attributed inanimate 1 class by all speakers, so its variability rate will be 
 $$\frac{inanimate_1}{inanimate_1+inanimate_2} = \frac{0}{8+8} = 0$$
 
-* the word *haq'u* 'room' were atributed as a first inanimated class by all speakers, so its variability rate will be 
-$$\frac{inanimate_1}{inanimate_1+inanimate_2} = \frac{0}{8+8} = 0$$
-
-* the word *haq'u* 'butterfly' were atributed as a first inanimated class by older speakers 4 times, and by younger speakers 5 times, so its variability rate will be different in different groups: $$\frac{inanimate_1}{inanimate_1+inanimate_2} = \frac{4}{4+4} = 0.5$$
+* the word *haq'u* 'butterfly' was attributed inanimate 1 class by older speakers four times, and by younger speakers five times, so its variability rate will be different in different groups: $$\frac{inanimate_1}{inanimate_1+inanimate_2} = \frac{4}{4+4} = 0.5$$
 $$\frac{inanimate_1}{inanimate_1+inanimate_2} = \frac{5}{5+3} = 0.625$$
 
-On the Figure 4 the variability rate of younger speakers is plotted against variability rate of older speakers.
+In Figure 4, the variability rate of younger speakers is plotted against the variability rate of older speakers.
 
 ```{r, dpi = 500, cashe = TRUE, fig.cap= "Figure 4. Destribution of the most variable words by different age group.", fig.width=7}
 df %>%  
@@ -363,11 +362,11 @@ df %>%
        y = expression(paste("rate of ", italic("1 inanimated"), "class (by ", underline(bold(older)), " spekers)")))
 ```
 
-Lexems that have been affiliated with first inanimate class will have variability rate 1 for both group so it will appear in right upper corner. Lexems that have been affiliated with second inanimate class will have variability rate 0 for both group so it will appear in left bottom corner. In case some lexemes have been affiliated with one inanimate class by one group and to the other by the other group would appeare in the rest corners, but there is no such cases in our data. Since all cases with no variability are not interesting for us, this dots are not labeled. So all other points on the Figure 4 are showe the variability preferences in each age group. Lexems that appear under the dashed line (with formula $y = x$) are tend to be more variable in older group of speakers, and words that appear under the line are tend to be more variable in younger group of speakers. So from the Figure 4 we clearly see that variability among some lexems (only 27 of 106) is shared between both age groups (e. g. *plastɨrʲ* 'plaster'), but there are also some lexems that are variable in one group and not variable in the other (e. g. *sputnʲik* 'satellite' or *ɡol* 'goal').
+Lexems that were affiliated with the first inanimate class will have a variability rate of 1 for both groups, so it will appear in the top right corner. Lexems that were affiliated with the second inanimate class will have a variability rate of 0 for both groups, so it will appear in the bottom left corner. In case a lexeme was affiliated with one inanimate class by one group and with another by the other group, it would appear in one of the other corners, but there are no such cases in our data. Since cases with no variability are not interesting for us, these dots are not labeled in the graph. All other points in Figure 4 show the variability preferences for each age group. Lexemes that appear under the dashed line (with the formula $y = x$) tend to be more variable among the older speakers, and words that appear under the line tend to be more variable among younger speakers. So from Figure 4 we clearly see that the variability of some lexems (only 27 of 106) is shared between both age groups (e.g. *plastɨrʲ* 'plaster'), but there are also some lexems that are variable in one group and not variable in the other (e.g. *sputnʲik* 'satellite' or *ɡol* 'goal').
 
 ### 5. Conclusion
 
-The Upper Andi dialects have an unusually large number of noun classes in comparison with neighbouring languages and other Nakh-Daghestanian languages. This is caused by the distinction of multiple classes for inanimate objects. While the assignment of the masculine, feminine and animate classes is clearly semantically motivated, we could discern no obvious pattern for the assignment of a particular inanimate class. Therefore, we decided to conduct an experiment testing the class attribution of 114 words referring to inanimate objects (and a few insects that are usually categorized with inanimate objects. The speakers of the Zilo dialect of Andi showed high levels of consent. As our experiment showed, variation occurs both in the native and the borrowed vocabulary, though for borrowings it is much higher. A hierarchical clustering of the experimental results divided the group of speakers into older and younger speakers. The variation is higher within group of younger speakers. The variation in class asignment is not homogeneous among the age groups and could be devided on variation shared by two age groups, and unique for each age group.
+The Upper Andi dialects have an unusually large number of noun classes in comparison with neighbouring languages and other Nakh-Daghestanian languages. This is caused by the distinction of multiple classes for inanimate objects. While the assignment of the masculine, feminine and animate classes is clearly semantically motivated, we could discern no obvious pattern for the assignment of a particular inanimate class. Therefore, we decided to conduct an experiment testing the class attribution of 114 words referring to inanimate objects (and a few insects that are usually categorized with inanimate objects. The speakers of the Zilo dialect of Andi showed high levels of consent. As our experiment showed, variation occurs both in the native and the borrowed vocabulary, though for borrowings it is much higher. A hierarchical clustering of the experimental results divided the group of speakers into older and younger speakers. Variation is higher among the younger speakers. In addition, variation in class asignment is not homogeneous among the age groups. Variable lexemes can be divided into those that are shared by the two age groups, and those which are unique for each age group.
 
 ### Bibliography
 
