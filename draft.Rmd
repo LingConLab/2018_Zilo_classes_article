@@ -38,7 +38,7 @@ Andi is a minority language spoken in a mountainous area in northwestern Daghest
 
 ```{r, fig.width=6, fig.height=4.5, cashe = TRUE, fig.cap= "Figure 1. Andi on the map"}
 
-coord <- read_tsv("data/coordinates.tsv")
+#coord <- read_tsv("data/coordinates.tsv")
 
 # empty <- coord$label[1]
 # coord %>%
@@ -49,11 +49,17 @@ coord <- read_tsv("data/coordinates.tsv")
 #        <dbl>      <dbl>      <dbl>      <dbl>
 # 1       42.6       42.8       46.2       46.4
 
+# coord %>%
+#   filter(Lat > 42.6,
+#          Lat < 42.9,
+#          Lon > 46.1,
+#          Lon < 46.5) %>%
+#   mutate(Language = factor(Language, levels = c("Chechen", "Avar", "Andi", "Botlikh", "Godoberi", "Karata"))) ->
+#   coord
+# 
+#write_tsv(coord, "data/coordinates_2.tsv", na = "")
+coord <- read_tsv("data/coordinates_2.tsv")
 coord %>% 
-  filter(Lat > 42.6,
-         Lat < 42.9,
-         Lon > 46.1,
-         Lon < 46.5) %>% 
   mutate(label = if_else(is.na(label), "", label)) ->
   coord
 
@@ -74,16 +80,13 @@ map.feature(languages = "Andi",
 Andi is an unwritten language of Daghestan (see Figure 1). Together with Akhvakh, Karata, Botlikh, Godoberi, Chamalal, Bagvalal and Tindi, it makes up the Andic branch of the Nakh-Daghestanian (or East Caucasian) language family. The Andic branch is usually subsumed under a macro-branch it shares with Avar [@schulze13], which is also an influential neighbour of the Andic languages. Andi is spoken in the Botlikh district of the Republic of Daghestan, which borders on the Chechen republic. From some of the Andi villages Chechnya can be reached by foot. All of the Andic languages are spoken in a rather compact area, wedged in between large clusters of Chechen and Avar speaking villages (see Figure 2). Each of the nine Andi speaking villages is considered to have a distinct dialect with some minor idiosyncrasies. These dialects can be divided in two major groups: **Upper**, which includes the Andi, Gagatli, Gunkha, Rikvani, Ashali, Chanko and Zilo dialects, and **Lower**, which includes only the Muni and Kwanhidatli dialects [@tsertsvadze65]. The names of the groups refer to their geographical location. The Upper villages are situated higher in the mountains, while the Lower dialects are spoken at the foot of these mountains, along the Andi Koisu river bank. There is mutual intelligibility among dialects, although speakers of dialects from the Upper group have trouble understanding speakers of Lower dialects (in particular that of Muni) and vice versa. Hence, they prefer to communicate in Avar, while within dialect groups they speak their native language. In this paper, we consider material from the village Zilo (see Figure 2). Although Zilo is considered one of the Upper dialects, it shares some features with the Lower group (such as the *-e* habitual). As the map shows, Zilo is surrounded almost exclusively by Andi villages, with the exception of some Avar villages in the east. There are also Botlikh, Karata and Chechen villages in the neighbourhood.
 
 ```{r, fig.width=6, fig.height=4.5, cashe = TRUE, fig.cap= "Figure 2. The Andi villages (labeled) and their neighbours"}
-
-coord$Language <- factor(coord$Language, levels = c("Chechen", "Avar", "Andi", "Botlikh", "Godoberi", "Karata"))
-
 map.feature(coord$Language,
             features = coord$Language,
             latitude = coord$Lat,
             longitude = coord$Lon,
             width = 6,
-            label.emphasize = list(24, "red"),
-            color = c("darkgrey", "deepskyblue", "darkseagreen", "aquamarine4", "aquamarine2", "lightblue1"),
+            label.emphasize = list(37, "red"),
+#            color = c("darkgrey", "deepskyblue", "darkseagreen", "aquamarine4", "aquamarine2", "lightblue1"),
             label = coord$label,
             label.hide = FALSE,
             label.fsize = 14,
@@ -126,7 +129,25 @@ Table 2. Class inventory of languages spoken in neighbouring villages
 read_csv("data/table_2.csv", na = "")
 ```
 
-As mentioned earlier, the attribution of the masculine and feminine noun classes is very transparent. The animate class consists of animals, both large and small (the only exception are insects, which in some cases are grouped with inanimates). The motivation for assigning any of the inanimate classes remains a mystery. Not even all insects belong to the same inanimate class: in Rikvani, spiders belong to the animate class, while butterflies belong to the third inanimate class. In addition, *aqrab* 'scorpion', which is a loan from Avar, also belongs to the animate class, while the native word *hortʃ'oritʃ'in* 'scorpion, belongs to the third inanimate class. A possible explanation for *aqrab* belonging to inanimate 1 is analogy with Avar - in Avar there is only one neuter class, which comprises animals and objects, and corresponds to the class marker *b-*, parallel to animate and inanimate 1 in the Andi dialects.
+As mentioned earlier, the attribution of the masculine and feminine noun classes is very transparent. The animate class consists of animals, both large and small (the only exception are insects, which in some cases are grouped with inanimates). The motivation for assigning any of the inanimate classes remains a mystery. Not even all insects belong to the same inanimate class: in Rikvani, spiders belong to the animate class, while butterflies belong to the third inanimate class. In addition, *aqrab* 'scorpion', which is a loan from Avar, also belongs to the animate class, while the native word *hortʃ'oritʃ'in* 'scorpion, belongs to the third inanimate class. A possible explanation for *aqrab* belonging to inanimate 1 is analogy with Avar --- in Avar there is only one neuter class, which comprises animals and objects, and corresponds to the class marker *b-*, parallel to animate and inanimate 1 in the Andi dialects. In Figure 3. the number of classes in Andi and neighbouring villages is presented.
+
+```{r, fig.width=6, fig.height=4.5, cashe = TRUE, fig.cap= "Figure 3. Number of classes in Andi and their neighbours."}
+
+map.feature(coord$Language,
+            features = paste(coord$class, "classes"),
+            latitude = coord$Lat,
+            longitude = coord$Lon,
+            width = 6,
+            label.emphasize = list(37, "red"),
+            label = coord$label,
+            label.hide = FALSE,
+            label.fsize = 14,
+            label.font = 'Brill',
+            zoom.level = 11,
+            tile = c("Esri.WorldGrayCanvas"))
+```
+
+
 
 #### 3.1 Inanimate classes
 
@@ -202,7 +223,7 @@ As Table 3 shows, the results of the experiment showed a fairly high inter speak
 
 The results of a hierarchical clustering of our data are presented in Figure 3:
 
-```{r, dpi = 500, cashe = TRUE, fig.cap= "Figure 3. Dendrogram showing the clusterization of speakers."}
+```{r, dpi = 500, cashe = TRUE, fig.cap= "Figure 4. Dendrogram showing the clusterization of speakers."}
 df %>% 
   mutate(class = if_else(class == "b", 1, 0)) %>% 
   select(-sex, -age_2017, -group_age) %>% 
@@ -328,19 +349,17 @@ read_csv("data/table_4.csv", na = "")
 
 As we see from Table 4, younger speakers have lower values for both the pure agreement percentages and Fleiss' kappas in each group of words. There are two possible scenarios for these values: 1) variability concerns the same lexemes in the different age groups, but that the level of variability is higher among younger speakers; 2) the set of variable lexemes is different for the two groups. Therefore, we decided to visualize which lexemes are most variable for each group. First, we calculated variability rate for each word in each group. Here are three examples:
 
-# Гарик, тут что-то не то.. бабочка у нас комната
-
 * the word *inɡur* 'window' was attributed inanimate 1 class by all speakers, so its variability rate will be $$\frac{inanimate_1}{inanimate_1+inanimate_2} = \frac{16}{8+8} = 1$$
 
 * the word *haq'u* 'room' was attributed inanimate 1 class by all speakers, so its variability rate will be 
 $$\frac{inanimate_1}{inanimate_1+inanimate_2} = \frac{0}{8+8} = 0$$
 
-* the word *haq'u* 'butterfly' was attributed inanimate 1 class by older speakers four times, and by younger speakers five times, so its variability rate will be different in different groups: $$\frac{inanimate_1}{inanimate_1+inanimate_2} = \frac{4}{4+4} = 0.5$$
+* the word *odoruk'a* 'butterfly' was attributed inanimate 1 class by older speakers four times, and by younger speakers five times, so its variability rate will be different in different groups: $$\frac{inanimate_1}{inanimate_1+inanimate_2} = \frac{4}{4+4} = 0.5$$
 $$\frac{inanimate_1}{inanimate_1+inanimate_2} = \frac{5}{5+3} = 0.625$$
 
 In Figure 4, the variability rate of younger speakers is plotted against the variability rate of older speakers.
 
-```{r, dpi = 500, cashe = TRUE, fig.cap= "Figure 4. Destribution of the most variable words by different age group.", fig.width=7}
+```{r, dpi = 500, cashe = TRUE, fig.cap= "Figure 5. Distribution of the most variable words by different age group (native lexemes are in blue).", fig.width=7}
 df %>%  
   group_by(w_id, translation_en, stimulus_source, group_age) %>% 
   count(class) %>% 

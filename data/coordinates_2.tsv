@@ -1,0 +1,196 @@
+EngNames	Lat	Lon	Language	Group	Family	color	glottocode	dialect	classes	source	source_bibtex	label	class
+Kvankhidatli	42.65789	46.271742	Andi	Andic	Nakh-Daghestanian	orange3	kvan1238	кванхидатльский	3	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Kwankhidatli	3
+Muni	42.680242	46.308874	Andi	Andic	Nakh-Daghestanian	orange3	muni1255	мунинский	2	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Muni	3
+Tlokh	42.6492	46.4578	Avar	Avar	Nakh-Daghestanian	yellow	ancu1238	анцухский, ташско-чадаколобская	3	[Saidova 2008: 23-28]	"@book{saidova2008,
+  address = {Moskva},
+  title={Диалектологический словарь аварского языка},
+  author={Saidova, Patimat Abdulaevna},
+  year={2008},
+  publisher={Nauka}
+  }"		3
+Alak	42.6092	46.1972	Avar	Avar	Nakh-Daghestanian	yellow							3
+Amushi Bol'shoe	42.63752	46.4864	Avar	Avar	Nakh-Daghestanian	yellow							3
+Amushi Maloe	42.650445	46.487815	Avar	Avar	Nakh-Daghestanian	yellow							3
+Ansalta	42.6939	46.1147	Avar	Avar	Nakh-Daghestanian	yellow							3
+Ichichali	42.732617	46.405263	Avar	Avar	Nakh-Daghestanian	yellow							3
+Kheleturi	42.612495	46.225441	Avar	Avar	Nakh-Daghestanian	yellow							3
+Kilyatl'	42.704637	46.466046	Avar	Avar	Nakh-Daghestanian	yellow							3
+Kizhani	42.74031	46.364775	Avar	Avar	Nakh-Daghestanian	yellow							3
+Mekhel'ta	42.798277	46.497361	Avar	Avar	Nakh-Daghestanian	yellow							3
+Muschuli	42.633706	46.498593	Avar	Avar	Nakh-Daghestanian	yellow							3
+Ortakolo	42.67057	46.38882	Avar	Avar	Nakh-Daghestanian	yellow							3
+Rakhata	42.6911	46.1414	Avar	Avar	Nakh-Daghestanian	yellow							3
+Ratsitl'	42.63788	46.33455	Avar	Avar	Nakh-Daghestanian	yellow							3
+Shabdukh	42.75612	46.42139	Avar	Avar	Nakh-Daghestanian	yellow							3
+Shodroda (Shadroda)	42.678426	46.12155	Avar	Avar	Nakh-Daghestanian	yellow							3
+Staryy Sivukh	42.80278	46.43694	Avar	Avar	Nakh-Daghestanian	yellow							3
+Tando	42.707696	46.175693	Avar	Avar	Nakh-Daghestanian	yellow							3
+Tasuta	42.71731	46.22568	Avar	Avar	Nakh-Daghestanian	yellow							3
+Tsilitl'	42.8125	46.4156	Avar	Avar	Nakh-Daghestanian	yellow							3
+Tsoloda	42.63827	46.36626	Avar	Avar	Nakh-Daghestanian	yellow							3
+Tsumali	42.607619	46.260923	Avar	Avar	Nakh-Daghestanian	yellow							3
+Tsundi	42.740996	46.436577	Avar	Avar	Nakh-Daghestanian	yellow							3
+Botlikh	42.667813	46.221451	Botlikh	Andic	Nakh-Daghestanian	sandybrown	botl1242		3	[Gudava 1962: 251]	"@book{302441,
+  address       = {Tblisi},
+  author        = {T'ogo E. Gudava},
+  pages         = {264},
+  publisher     = {Sak'art'velos SSR mec'nierebat'a akademiis gamomc'emloba},
+  title         = {Bot'lixuri ena: grammatikuli analizi, tek'stebi, lek'sikoni},
+  year          = {1962}
+  }"		3
+Miarso	42.654059	46.175643	Botlikh	Andic	Nakh-Daghestanian	sandybrown	botl1242		3	[Gudava 1962: 251]	"@book{302441,
+  address       = {Tblisi},
+  author        = {T'ogo E. Gudava},
+  pages         = {264},
+  publisher     = {Sak'art'velos SSR mec'nierebat'a akademiis gamomc'emloba},
+  title         = {Bot'lixuri ena: grammatikuli analizi, tek'stebi, lek'sikoni},
+  year          = {1962}
+  }"		3
+Ashino	42.683462	46.156727	Botlikh	Andic	Nakh-Daghestanian	sandybrown							3
+Anchik (Anchikh)	42.608098	46.271717	Karata	Andic	Nakh-Daghestanian	tomato3	anch1238	анчихский	3	[Magomedbekova 1971: 5]	"@book{12541,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  publisher  = {Metsniereba},
+  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
+  year       = {1971}
+  }"		3
+Mashtada	42.61362	46.314659	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  publisher  = {Metsniereba},
+  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
+  year       = {1971}
+  }"		3
+Nizhnee Inkhelo	42.645134	46.259367	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  publisher  = {Metsniereba},
+  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
+  year       = {1971}
+  }"		3
+Rachabulda	42.617256	46.300014	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  publisher  = {Metsniereba},
+  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
+  year       = {1971}
+  }"		3
+Ratsitl'	42.63788	46.33455	Karata	Andic	Nakh-Daghestanian	tomato3	kara1474		3	[Magomedbekova 1971: 5]	"@book{12541,
+  address    = {Tbilisi},
+  author     = {Magomedbekova, Zagidat M.},
+  publisher  = {Metsniereba},
+  title      = {Karatinskij jazyk: grammaticheskij analiz, teksty, slovar'},
+  year       = {1971}
+  }"		3
+Verkhnee Inkhelo	42.62035	46.329732	Karata	Andic	Nakh-Daghestanian	tomato3							3
+Andi	42.7856	46.2639	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Andi	5
+Gagatli	42.800361	46.292645	Andi	Andic	Nakh-Daghestanian	orange3	gaga1250	гагатлинский	5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Gagatli	5
+Zilo	42.731394	46.319223	Andi	Andic	Nakh-Daghestanian	orange3	zilo1238	зиловский	5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Zilo	5
+Rikvani	42.782304	46.319372	Andi	Andic	Nakh-Daghestanian	orange3	rikv1238	рикванинский	5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Rikvani	6
+Хой	42.750984	46.127223	Chechen	Nakh	Nakh-Daghestanian			чеберлоевский	5	[Arsakhanov 1969: 37]	"@book{102512,
+  address = {Groznyj},
+  author  = {Arsachanov, Israil Abdulgamidovic},
+  pages   = {206},
+  publisher = {Ceceno-Ingusskoe kniznoe izd.-vo},
+  title   = {Chechenskaya dialektologiya},
+  year    = {1969}
+}"		6
+Кезеной	42.758113	46.120906	Chechen	Nakh	Nakh-Daghestanian								6
+Ashali	42.76963	46.30878	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Ashali	5
+Chanko	42.717936	46.246417	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Chanko	5
+Gunkha	42.78968	46.28275	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Gunkha	5
+Khando	42.72694	46.23361	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Khando	5
+Mekheturi	42.70556	46.2375	Andi	Andic	Nakh-Daghestanian	orange3						Mekheturi	5
+Rushukha	42.71509	46.28112	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Rushukha	5
+Tsibilta	42.74322	46.24311	Andi	Andic	Nakh-Daghestanian	orange3	andi1255		5	[Sulejmanov 1957: 7]	"@phdthesis{Sulejmanov1957,
+  address = {Moskva},
+  author  = {Sulejmanov, Ya.G.},
+  publisher = {Institut Yasykoznaniya Akad. Nauk SSSR},
+  note    = {po dannym s. Rikvani},
+  title   = {Grammaticheskij očerk andijskogo yazyka},
+  year    = {1957}
+  }"	Tsibilta	5
+Godoberi	42.6258	46.1189	Godoberi	Andic	Nakh-Daghestanian	orange	ghod1238		3	[Saidova 1973: 6]	"@book{25632,
+  address    = {Maxachkala},
+  author     = {Saidova, Patimat Abduaevna},
+  publisher  = {Dagestaiskij filial akademii nauk SSSR},
+  title      = {Godoberinskij jazyk: grammaticheskij ocherk, teksty, slovar'},
+  year       = {1973}
+  }"		3
